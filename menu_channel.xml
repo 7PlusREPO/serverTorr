@@ -18,7 +18,7 @@
         <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
 		<info>Animes</info>
-		<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/menu_itens.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/menu_itens</externallink>
     </channel>
 	
 	<channel>
