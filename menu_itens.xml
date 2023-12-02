@@ -12,7 +12,7 @@
 	
     <item>
         <title>ANIME</title>
-        <link>$doregex[resolver]</link>
+        <link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:07B27988AE6195948DC3C41CD64B83A1417372BF</link>
         <thumbnail>http://channel.png</thumbnail>
         <genre>Animation</genre>
         <info>Anime teste</info>
