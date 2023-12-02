@@ -14,10 +14,10 @@
 	<!-- opicional -->
     
     <channel>
-        <name>TESTE</name>
+        <name>[COLOR lime]●[/COLOR]Filmes</name>
         <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
-		<info>Animes</info>
+		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]Offline</info>
 		<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/Menu2</externallink>
     </channel>
 	
