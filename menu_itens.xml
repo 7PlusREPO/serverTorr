@@ -15,7 +15,12 @@
         <link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:07B27988AE6195948DC3C41CD64B83A1417372BF</link>
         <thumbnail>http://channel.png</thumbnail>
         <genre>Animation</genre>
-        <info>Anime teste</info>
+        <info>
+	Um assassino, seu chefe, um negociante de arte e um esquema de lavagem de dinheiro que acidentalmente transforma a assassina em uma sensação de vanguarda da noite para o dia, que a força a jogar o mundo da arte contra o submundo.
+[COLOR lime]Release:[/COLOR] 2023
+[COLOR lime]Quality:[/COLOR] 4K /2160P
+[COLOR lime]IMDb:[/COLOR] 5.4
+	</info>
         <date>08.02.2022</date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
         <fanart>http://fanart.jpg</fanart>
