@@ -14,7 +14,7 @@
 	<!-- opicional -->
     
     <channel>
-        <name>[COLOR lime]●[/COLOR]Filmes</name>
+        <name>[B][COLOR lime]●[/COLOR] Filmes[/B]</name>
         <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
 		<info>[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]Offline</info>
