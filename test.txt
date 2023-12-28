@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 HD²" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS | CINE SKY",CINE SKY 01 HD²
-http://7go.xyz:8080/8581155638/use1556m/18910
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02 HD²" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS | CINE SKY",CINE SKY 02 HD²
-http://7go.xyz:8080/8581155638/use1556m/18911
+#EXTINF:-1 tvg-id="" tvg-name="teste 01 HD²" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS | CINE SKY",CINE SKY 01 HD²
+plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:f1ff81a162d8b0ebbe50505eb65dea74b9822af8
+#EXTINF:-1 tvg-id="" tvg-name="teste 02 HD²" tvg-logo="http://i.imgur.com/cqhIVgp.png" group-title="CANAIS | CINE SKY",CINE SKY 02 HD²
+magnet:?xt=urn:btih:f1ff81a162d8b0ebbe50505eb65dea74b9822af8
