@@ -11,7 +11,7 @@
 [COLOR lime]Legenda:[/COLOR] Português
 [COLOR lime]Duração:[/COLOR] 3 H 26 Min.
 </info>
-<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/menu_itens</externallink>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/Menu1.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
 <channel>
@@ -25,7 +25,7 @@
 [COLOR lime]Legenda:[/COLOR] Português
 [COLOR lime]Duração:[/COLOR] 3 H 26 Min.
 </info>
-<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/menu_itens5</externallink>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/Menu1.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
 <channel>
