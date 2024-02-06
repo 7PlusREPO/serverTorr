@@ -1,6 +1,16 @@
 <channels>
 
 <channel>
+<name>[B][COLOR lime]●[/COLOR][COLOR white] O Outro Lado da Dor (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/4loAQSV9tLQbVPvWrAntNn0kBIO.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/96S2aGGh6I7og1oNrAiRHxGz0PH.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Em Do Outro Lado da Dor, Marc (Daniel Levy) acaba de perder inesperadamente seu marido, Oliver (Luke Evans). Vivendo sempre feliz às sombras de seu extravagante e charmoso amor, sem rumo, sua rotina, sonhos e desejos logo viram de cabeça para baixo. Para enfrentar o luto, ele vai a Paris com seus melhores amigos, Sophie (Ruth Negga) e Thomas (Himesh Patel), em uma viagem de autoconhecimento que revela verdades difíceis de encarar 
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.tt19887550</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
 <name>[B][COLOR lime]●[/COLOR][COLOR white] A Sociedade da Neve (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/7fQTmvKgVGxifieVryqqlxohkoW.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/v2E4UUGbs600uVRqSoS0Kq2sbPS.jpg</fanart>
