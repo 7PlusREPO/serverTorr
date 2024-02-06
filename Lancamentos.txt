@@ -2,82 +2,13 @@
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR][COLOR white] A Sociedade da Neve (2024)[/COLOR][/B]</name>
-<thumbnail>https://www.themoviedb.org/t/p/original/65k7FeAQfYCUXml5vT1vvHAYJoD.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/7fQTmvKgVGxifieVryqqlxohkoW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/v2E4UUGbs600uVRqSoS0Kq2sbPS.jpg</fanart>
 <info>
 [COLOR lime]SINOPSE:[/COLOR]Inspirado em uma história real e baseado no livro homônimo de Pablo Vierci, A Sociedade da Neve fala sobre o caso que ocorreu em 1972, quando o voo 571 da Força Aérea Uruguaia, fretado para levar uma equipe de rugby ao Chile, cai em uma geleira no coração dos Andes. Apenas 29 de seus 45 passageiros sobrevivem ao acidente. Presos em um dos ambientes mais inacessíveis e hostis no planeta, eles são obrigados a recorrer a medidas extremas para se manterem vivos. 
 </info>
 <externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.tt16277242</externallink>
 </channel>
 «««««««««««««««««««««««««
-<channel>
-<name>[B][COLOR lime]●[/COLOR][COLOR white] Assassinos da Lua das Flores (2023)[/COLOR][/B]</name>
-<thumbnail>https://www.themoviedb.org/t/p/original/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/wCte7A4O2L7CAiw70fbFuvkngA7.jpg</fanart>
-<info>
-[COLOR lime]SINOPSE:[/COLOR] Na década de 1920, em Oklahoma, o povo da nação Osage começa a ser assassinado após petróleo ser descoberto sob suas terras, até que o FBl entra em cena para desvendar o mistério.
-[COLOR lime]IMDb:[/COLOR] 8.0
-[COLOR lime]Idioma:[/COLOR] Português | Inglês
-[COLOR lime]Legenda:[/COLOR] Português
-[COLOR lime]Duração:[/COLOR] 3 H 26 Min.
-</info>
-<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/menu_itens5</externallink>
-</channel>
-«««««««««««««««««««««««««
-<channel>
-<name>[B][COLOR lime]●[/COLOR][COLOR white] Resistência (2023)[/COLOR][/B]</name>
-<thumbnail>https://www.themoviedb.org/t/p/original/5MPdNRHzd0NbOJbrrXO77DVHP4n.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/yg3djJ3JDhoyVu8G7tW4vb5oNIg.jpg</fanart>
-<info>
-Em meio a uma futura guerra entre a raça humana e as forças da inteligência artificial, Joshua, um endurecido ex-agente das forças especiais que lamenta o desaparecimento de sua esposa, é recrutado para caçar e matar o Criador, o indescritível arquiteto da IA avançada que desenvolveu uma arma misteriosa com o poder de acabar com a guerra - e a própria humanidade.
-[COLOR lime]IMDb:[/COLOR] 7.1
-[COLOR lime]Idioma:[/COLOR] Português | Inglês
-[COLOR lime]Legenda:[/COLOR] Português
-[COLOR lime]Duração:[/COLOR] 2h 14 Min.
-</info>
-<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/menu_itens4</externallink>
-</channel>
-«««««««««««««««««««««««««
-<channel>
-<name>[B][COLOR lime]●[/COLOR][COLOR white] Indiana Jones e A Relíquia do Destino (2023)[/COLOR][/B]</name>
-<thumbnail>https://www.themoviedb.org/t/p/original/A6cuXRLz2tVBEnSkwK6gWlP37HZ.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/57JocxmicOoAMhkUSmdKBlpZWMT.jpg</fanart>
-<info>
-Em Indiana Jones e a Relíquia do Destino, Indiana Jones (Harrisson Ford), famoso arqueólogo, professor e aventureiro, embarca em mais uma missão inesperada. Neste retorno do herói lendário, Indiana Jones, na quinta parcela da icônica série de filmes, encontra-se em uma nova era, aproximando-se da aposentadoria. Ele luta para se encaixar em um mundo que parece tê-lo superado.
-[COLOR lime]IMDb:[/COLOR] 5.4
-[COLOR lime]Idioma:[/COLOR] Português | Inglês
-[COLOR lime]Legenda:[/COLOR] Português
-[COLOR lime]Duração:[/COLOR] 2h 34 Min.
-</info>
-<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/menu_itens</externallink>
-</channel>
-«««««««««««««««««««««««««
-<channel>
-<name>[B][COLOR lime]●[/COLOR][COLOR white] O Exorcista: O Devoto (2023)[/COLOR][/B]</name>
-<thumbnail>https://www.themoviedb.org/t/p/original/qazqv13qez8g2FkSXT2mt65uWKl.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/d7zDEW6AkRCvEOT2Cela4h0F3Nb.jpg</fanart>
-<info>
-O Exorcista – O Devoto é a sequência do clássico de 1973 sobre uma menina de 12 anos que é possuída por uma misteriosa entidade demoníaca, forçando sua mãe a buscar a ajuda de dois padres para salvá-la. Nesta versão de 2023, desde a morte de sua esposa grávida em um terremoto no Haiti, há 12 anos, Victor Fielding tem criado sua filha Angela sozinho. 
-[COLOR lime]IMDb:[/COLOR] 4.8
-[COLOR lime]Idioma:[/COLOR] Português | Inglês
-[COLOR lime]Legenda:[/COLOR] Português
-[COLOR lime]Duração:[/COLOR] 1h 51 Min.
-</info>
-<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/menu_itens2</externallink>
-</channel>
-«««««««««««««««««««««««««
-<channel>
-<name>[B][COLOR lime]●[/COLOR][COLOR white] Oppenheimer (2023)[/COLOR][/B]</name>
-<thumbnail>https://www.themoviedb.org/t/p/original/c0DCmfC7Et2K3URnIJ4ahJpeXR2.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg</fanart>
-<info>
-A história do físico americano J. Robert Oppenheimer, seu papel no Projeto Manhattan e no desenvolvimento da bomba atômica durante a Segunda Guerra Mundial, e o quanto isso mudaria a história do mundo para sempre. 
-[COLOR lime]IMDb:[/COLOR] 8.5
-[COLOR lime]Idioma:[/COLOR] Português | Inglês
-[COLOR lime]Legenda:[/COLOR] Português
-[COLOR lime]Duração:[/COLOR] 3h 00 Min.
-</info>
-<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/menu_itens3</externallink>
-</channel>
-«««««««««««««««««««««««««
+
 </channels>
