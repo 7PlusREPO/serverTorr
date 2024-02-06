@@ -1,17 +1,13 @@
 <channels>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR][COLOR white] George Foreman: Sua História (2023)[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR][COLOR white] A Sociedade da Neve (2024)[/COLOR][/B]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/65k7FeAQfYCUXml5vT1vvHAYJoD.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
 <info>
-[COLOR lime]SINOPSE:[/COLOR] Após uma infância pobre, Foreman canaliza sua raiva e se torna medalhista de ouro olímpico e campeão mundial de pesos-pesados. Logo após, vive uma experiência de quase morte que o leva dos ringues de boxe aos púlpitos. 
-[COLOR lime]IMDb:[/COLOR] 6.6
-[COLOR lime]Idioma:[/COLOR] Português | Inglês
-[COLOR lime]Legenda:[/COLOR] Português
-[COLOR lime]Duração:[/COLOR] 3 H 26 Min.
+[COLOR lime]SINOPSE:[/COLOR] No filme A Sociedade da Neve Torrent (2024) WEB-DL 1080p Dual Áudio, Inspirado em uma história real e baseado no livro homônimo de Pablo Vierci, A Sociedade da Neve fala sobre o caso que ocorreu em 1972, quando o voo 571 da Força Aérea Uruguaia, fretado para levar uma equipe de rugby ao Chile, cai em uma geleira no coração dos Andes. Apenas 29 de seus 45 passageiros sobrevivem ao acidente. Presos em um dos ambientes mais inacessíveis e hostis no planeta, eles são obrigados a recorrer a medidas extremas para se manterem vivos. 
 </info>
-<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/menu_itens</externallink>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.tt16277242</externallink>
 </channel>
 «««««««««««««««««««««««««
 <channel>
