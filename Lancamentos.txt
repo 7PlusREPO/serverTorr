@@ -5,7 +5,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/65k7FeAQfYCUXml5vT1vvHAYJoD.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
 <info>
-[COLOR lime]SINOPSE:[/COLOR] No filme A Sociedade da Neve Torrent (2024) WEB-DL 1080p Dual Áudio, Inspirado em uma história real e baseado no livro homônimo de Pablo Vierci, A Sociedade da Neve fala sobre o caso que ocorreu em 1972, quando o voo 571 da Força Aérea Uruguaia, fretado para levar uma equipe de rugby ao Chile, cai em uma geleira no coração dos Andes. Apenas 29 de seus 45 passageiros sobrevivem ao acidente. Presos em um dos ambientes mais inacessíveis e hostis no planeta, eles são obrigados a recorrer a medidas extremas para se manterem vivos. 
+[COLOR lime]SINOPSE:[/COLOR]Inspirado em uma história real e baseado no livro homônimo de Pablo Vierci, A Sociedade da Neve fala sobre o caso que ocorreu em 1972, quando o voo 571 da Força Aérea Uruguaia, fretado para levar uma equipe de rugby ao Chile, cai em uma geleira no coração dos Andes. Apenas 29 de seus 45 passageiros sobrevivem ao acidente. Presos em um dos ambientes mais inacessíveis e hostis no planeta, eles são obrigados a recorrer a medidas extremas para se manterem vivos. 
 </info>
 <externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.tt16277242</externallink>
 </channel>
