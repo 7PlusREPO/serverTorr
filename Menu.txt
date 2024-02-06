@@ -1,7 +1,7 @@
 <channels>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR][COLOR white] George Foreman: Sua História (2023)[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR][COLOR white] Lançamentos[/COLOR][/B]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/65k7FeAQfYCUXml5vT1vvHAYJoD.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
 <info>
@@ -15,7 +15,7 @@
 </channel>
 «««««««««««««««««««««««««
 <channel>
-<name>[B][COLOR lime]●[/COLOR][COLOR white] Assassinos da Lua das Flores (2023)[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR][COLOR white] Filmes (2023)[/COLOR][/B]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/wCte7A4O2L7CAiw70fbFuvkngA7.jpg</fanart>
 <info>
@@ -29,7 +29,7 @@
 </channel>
 «««««««««««««««««««««««««
 <channel>
-<name>[B][COLOR lime]●[/COLOR][COLOR white] Resistência (2023)[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR][COLOR white] Filmes (2022)[/COLOR][/B]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/5MPdNRHzd0NbOJbrrXO77DVHP4n.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/yg3djJ3JDhoyVu8G7tW4vb5oNIg.jpg</fanart>
 <info>
@@ -43,7 +43,7 @@ Em meio a uma futura guerra entre a raça humana e as forças da inteligência a
 </channel>
 «««««««««««««««««««««««««
 <channel>
-<name>[B][COLOR lime]●[/COLOR][COLOR white] Indiana Jones e A Relíquia do Destino (2023)[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR][COLOR white] Séries[/COLOR][/B]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/A6cuXRLz2tVBEnSkwK6gWlP37HZ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/57JocxmicOoAMhkUSmdKBlpZWMT.jpg</fanart>
 <info>
