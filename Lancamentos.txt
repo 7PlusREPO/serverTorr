@@ -1,5 +1,16 @@
 <channels>
 
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR][COLOR white] Foe (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/eTPBizhkX6B9NgzPzkhVIOvwXxZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tFxAeagQbrjCqjikwvfsLf6ktT7.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]As vidas de Hen (Saoirse Ronan) e Junior (Paul Mescal) sofrem uma reviravolta quando um desconhecido faz uma proposta surpreendente. Eles vão arriscar seu relacionamento e suas identidades pessoais por uma chance de sobreviver num mundo novo? Com imagens hipnotizantes e questões persistentes sobre a natureza da humanidade (e da humanidade artificial), Intruso dá luz a um futuro não muito distante. 
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.tt8258502.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR lime]●[/COLOR][COLOR white] O Outro Lado da Dor (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/4loAQSV9tLQbVPvWrAntNn0kBIO.jpg</thumbnail>
