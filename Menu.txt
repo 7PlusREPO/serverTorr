@@ -53,7 +53,7 @@ Em Indiana Jones e a Relíquia do Destino, Indiana Jones (Harrisson Ford), famos
 [COLOR lime]Legenda:[/COLOR] Português
 [COLOR lime]Duração:[/COLOR] 2h 34 Min.
 </info>
-<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/menu_itens</externallink>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDbSeries</externallink>
 </channel>
 «««««««««««««««««««««««««
 <channel>
