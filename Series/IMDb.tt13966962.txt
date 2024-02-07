@@ -1,0 +1,20 @@
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO 1080p</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2KWBQ53SYYUQY5IG7FWMS6CVZT3JFQLV&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/u3ySnWqSjM3jedYgJZTR7RWRDDm.jpg</thumbnail>
+<fanart>FUNDO</fanart>
+<info>
+[COLOR lime]●[/COLOR]Online
+[COLOR lime]Gênero:[/COLOR] Ação | Aventura | Fantasia
+[COLOR lime]Duração:[/COLOR] 45 Min.
+[COLOR lime]Lançamento:[/COLOR] 2024
+[COLOR lime]Qualidade:[/COLOR] WEB-DL
+[COLOR lime]Formato:[/COLOR] MKV
+[COLOR lime]Áudio:[/COLOR] Português | Inglês
+[COLOR lime]Legenda:[/COLOR] PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10 (5.1)
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 6,2
+</info>
+</item>
++++++++++
