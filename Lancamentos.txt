@@ -1,13 +1,13 @@
 <channels>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR][COLOR white] Fool Me Once (2024)[/COLOR][/B]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/Ertv4WLEyHgi8zN4ldOKgPcGAZ.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/5QlPMpggN5pLAZWpae0doDgRNZi.jpg</fanart>
+<name>[B][COLOR lime]●[/COLOR][COLOR white] One More Shot (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/nQ1BQg4yMdlYSHvHZgwladzy7EF.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5pVbh9gbaMdBBiZj3elZdq2v0lE.jpg</fanart>
 <info>
-[COLOR lime]SINOPSE:[/COLOR]Em A Grande Ilusão, uma veterana de guerra vê imagens do marido morto em uma câmera espiã e acaba descobrindo uma grande conspiração. Na minissérie baseada no livro de Harlan Coben, a ex-piloto de operações Maya (Michelle Keegan) sofre com a perda do esposo Joe (Richard Armitage) enquanto tenta cuidar de sua filha de dois anos. Um dia, a câmera que monitora a bebê captura filmagens de Joe brincando com ela. Chocada e confusa, ela procurao detetive Sami Kierce (Adeel Akhtar), que investiga o homicídio, e acaba abrindo um novo mistério e grandes perigos.
+[COLOR lime]SINOPSE:[/COLOR]Após um ataque a uma base clandestina na Polônia, o SEAL Jake Harris (Scott Adkins) precisa usar todas as suas habilidades militares para sobreviver a um cerco ao aeroporto por mercenários que tentam capturar o suspeito de terrorismo Amin Mansur. Uma bomba ameaça um discurso importante do presidente dos Estados Unidos, e Mansur é a única pessoa que pode saber a localização do artefato. Ainda…
 </info>
-<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.tt5611024.txt</externallink>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.tt27110516.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
 <channel>
