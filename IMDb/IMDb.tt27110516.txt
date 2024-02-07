@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO MKV DUAL ÁUDIO WEB-DL 1080p</title>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO 1080p</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1489d21acdbd800e61e964a559554b31ed066b4&dn</link>
 <thumbnail>https://image.tmdb.org/t/p/original/nQ1BQg4yMdlYSHvHZgwladzy7EF.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/5pVbh9gbaMdBBiZj3elZdq2v0lE.jpg</fanart>
