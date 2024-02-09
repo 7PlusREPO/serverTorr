@@ -1,5 +1,16 @@
 <channels>
 
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR][COLOR white] Lift: Roubo nas Alturas (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/ca74jjIYRVDdsnlWk8JzyVY49dE.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rz8GGX5Id2hCW1KzAIY4xwbQw1w.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Um mestre ladrão é persuadido a participar num roubo aparentemente impossível pelo FBI e pela sua ex-namorada. Mas para complicar um pouco as coisas, o roubo de 500 milhões de dólares ocorre a bordo de um voo com 777 passageiros e a 12 mil metros de altura, que viaja de Londres para Zurique.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.tt8258502.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR lime]●[/COLOR][COLOR white] One More Shot (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/nQ1BQg4yMdlYSHvHZgwladzy7EF.jpg</thumbnail>
