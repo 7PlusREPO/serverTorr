@@ -1,12 +1,12 @@
 <item>
 <title>[COLOR lime](Ver Video)[/COLOR] VERSÃO 1080p</title>
-<link>magnet:?xt=urn:btih:cb053dd9a2d70554a64f4b6a0be3f1ca05301a6c&dn</link>
-<thumbnail>https://image.tmdb.org/t/p/original/eTPBizhkX6B9NgzPzkhVIOvwXxZ.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/tFxAeagQbrjCqjikwvfsLf6ktT7.jpg</fanart>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:S3MXJXB5T5FXLNHRLIVHPC5GLOD257TS&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ca74jjIYRVDdsnlWk8JzyVY49dE.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rz8GGX5Id2hCW1KzAIY4xwbQw1w.jpg</fanart>
 <info>
 [COLOR lime]●[/COLOR]Online
-[COLOR lime]Gênero:[/COLOR] Drama | Ficção | Suspense
-[COLOR lime]Duração:[/COLOR] 1 H 51 Min.
+[COLOR lime]Gênero:[/COLOR] Ação | Comédia | Crime
+[COLOR lime]Duração:[/COLOR] 1 H 46 Min
 [COLOR lime]Lançamento:[/COLOR] 2024
 [COLOR lime]Qualidade:[/COLOR] WEB-DL
 [COLOR lime]Formato:[/COLOR] MKV
@@ -14,7 +14,7 @@
 [COLOR lime]Legenda:[/COLOR] PT-BR
 [COLOR lime]Qualidade de Áudio:[/COLOR] 10 (5.1)
 [COLOR lime]Qualidade de Vídeo:[/COLOR] 10
-[COLOR lime]IMDb:[/COLOR] 5,3
+[COLOR lime]IMDb:[/COLOR] 6,2
 </info>
 </item>
 +++++++++
