@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO 720p</title>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO 720p 1ª Temporada</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DLPBMF4LKAJQXSHERF7SYIAKSJYPDEYQ&dn</link>
 <thumbnail>https://image.tmdb.org/t/p/original/nJUHX3XL1jMkk8honUZnUmudFb9.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/1qpUk27LVI9UoTS7S0EixUBj5aR.jpg</fanart>
@@ -19,7 +19,7 @@
 </item>
 +++++++++
 <item>
-<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO 1080p Halo 2ª Temporada</title>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO 1080p 2ª Temporada</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SY6PPJZGMLUD4GFSVIW6BATY3IDAHCWJ&dn</link>
 <thumbnail>https://image.tmdb.org/t/p/original/hmHA5jqxN3ESIAGx0jAwV7TJhTQ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/flFggscMhUyA9p7P8SbFyn6HPN1.jpg</fanart>
