@@ -18,3 +18,23 @@
 </info>
 </item>
 +++++++++
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO 1080p Halo 2ª Temporada</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SY6PPJZGMLUD4GFSVIW6BATY3IDAHCWJ&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/hmHA5jqxN3ESIAGx0jAwV7TJhTQ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/flFggscMhUyA9p7P8SbFyn6HPN1.jpg</fanart>
+<info>
+[COLOR lime]●[/COLOR]Online EPISÓDIOS 01 E 02
+[COLOR lime]Gênero:[/COLOR] Ação | Aventura | Ficção
+[COLOR lime]Duração:[/COLOR] 55 Min.
+[COLOR lime]Lançamento:[/COLOR] 2024
+[COLOR lime]Qualidade:[/COLOR] WEB-DL
+[COLOR lime]Formato:[/COLOR] MKV
+[COLOR lime]Áudio:[/COLOR] Português | Inglês
+[COLOR lime]Legenda:[/COLOR] PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10 (2.0)
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 6.2
+</info>
+</item>
++++++++++
