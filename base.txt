@@ -1,1 +1,1 @@
-url="https://cld.pt/dl/download/47f3d0f6-e28c-45c6-98d4-e7b9df94e2a2/7plus.db"
+url="https://github.com/7PlusREPO/serverTorr/raw/master/7plus.db"
