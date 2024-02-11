@@ -1,6 +1,6 @@
 <item>
 <title>[COLOR lime](Ver Video)[/COLOR] VERSÃO 1080p</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://mixdropjmk.pw/e/1vkgdwndtl7q49</link>
+<link>https://mixdropjmk.pw/e/1vkgdwndtl7q49</link>
 <subtitle>LEGENDAS</subtitle>
 <thumbnail>CAPA</thumbnail>
 <fanart>FUNDO</fanart>
