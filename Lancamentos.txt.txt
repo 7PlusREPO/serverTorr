@@ -1,0 +1,64 @@
+<channels>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR][COLOR white] Mergulho Noturno (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/a2pyGSNdHBMcwI2a5OiCcaLHRoo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/aZ8dBIvpDFp9cp23MfBiY5mWfuy.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Ray Waller é um ex- jogador de basebol forçado a reformar-se precocemente devido a uma doença degenerativa, que se muda para uma nova casa com a sua preocupada mulher Eve, a filha adolescente Izzy e o seu jovem filho Elliot. Secretamente esperando, contra todas as probabilidades, regressar ao basebol profissional, Ray convence Eve que a cintilante piscina no quintal da nova casa será divertida para os seus filhos e uma boa oportunidade de fisioterapia para ele. Mas um sombrio segredo no passado da casa desencadeará uma força malévola que arrastará a família para as profundezas de um terror inescapável.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.Night-Swim.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]●[/COLOR][COLOR white] Lift: Roubo nas Alturas (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/ca74jjIYRVDdsnlWk8JzyVY49dE.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rz8GGX5Id2hCW1KzAIY4xwbQw1w.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Um mestre ladrão é persuadido a participar num roubo aparentemente impossível pelo FBI e pela sua ex-namorada. Mas para complicar um pouco as coisas, o roubo de 500 milhões de dólares ocorre a bordo de um voo com 777 passageiros e a 12 mil metros de altura, que viaja de Londres para Zurique.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.tt8258502.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]●[/COLOR][COLOR white] One More Shot (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/nQ1BQg4yMdlYSHvHZgwladzy7EF.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5pVbh9gbaMdBBiZj3elZdq2v0lE.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Após um ataque a uma base clandestina na Polônia, o SEAL Jake Harris (Scott Adkins) precisa usar todas as suas habilidades militares para sobreviver a um cerco ao aeroporto por mercenários que tentam capturar o suspeito de terrorismo Amin Mansur. Uma bomba ameaça um discurso importante do presidente dos Estados Unidos, e Mansur é a única pessoa que pode saber a localização do artefato. Ainda…
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.tt27110516.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]●[/COLOR][COLOR white] Foe (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/eTPBizhkX6B9NgzPzkhVIOvwXxZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tFxAeagQbrjCqjikwvfsLf6ktT7.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]As vidas de Hen (Saoirse Ronan) e Junior (Paul Mescal) sofrem uma reviravolta quando um desconhecido faz uma proposta surpreendente. Eles vão arriscar seu relacionamento e suas identidades pessoais por uma chance de sobreviver num mundo novo? Com imagens hipnotizantes e questões persistentes sobre a natureza da humanidade (e da humanidade artificial), Intruso dá luz a um futuro não muito distante. 
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.tt8258502.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]●[/COLOR][COLOR white] O Outro Lado da Dor (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/4loAQSV9tLQbVPvWrAntNn0kBIO.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/96S2aGGh6I7og1oNrAiRHxGz0PH.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Em Do Outro Lado da Dor, Marc (Daniel Levy) acaba de perder inesperadamente seu marido, Oliver (Luke Evans). Vivendo sempre feliz às sombras de seu extravagante e charmoso amor, sem rumo, sua rotina, sonhos e desejos logo viram de cabeça para baixo. Para enfrentar o luto, ele vai a Paris com seus melhores amigos, Sophie (Ruth Negga) e Thomas (Himesh Patel), em uma viagem de autoconhecimento que revela verdades difíceis de encarar 
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.tt19887550</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]●[/COLOR][COLOR white] A Sociedade da Neve (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/7fQTmvKgVGxifieVryqqlxohkoW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/v2E4UUGbs600uVRqSoS0Kq2sbPS.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Inspirado em uma história real e baseado no livro homônimo de Pablo Vierci, A Sociedade da Neve fala sobre o caso que ocorreu em 1972, quando o voo 571 da Força Aérea Uruguaia, fretado para levar uma equipe de rugby ao Chile, cai em uma geleira no coração dos Andes. Apenas 29 de seus 45 passageiros sobrevivem ao acidente. Presos em um dos ambientes mais inacessíveis e hostis no planeta, eles são obrigados a recorrer a medidas extremas para se manterem vivos. 
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.tt16277242</externallink>
+</channel>
+«««««««««««««««««««««««««
+
+</channels>
