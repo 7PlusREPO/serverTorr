@@ -1,13 +1,24 @@
 <channels>
 
+
 <channel>
-<name>[B][COLOR lime]●[/COLOR][COLOR white] teste (2024)[/COLOR][/B]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/ca74jjIYRVDdsnlWk8JzyVY49dE.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/rz8GGX5Id2hCW1KzAIY4xwbQw1w.jpg</fanart>
+<name>[B][COLOR lime]●[/COLOR][COLOR white] Alarme de Incêndio (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/qXB0yZbECic73jLrqvCgcpL9dhU.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cJ66KEbD88cQXBXVfBFG4TeO13B.jpg</fanart>
 <info>
-[COLOR lime]SINOPSE:[/COLOR]Um mestre ladrão é persuadido a participar num roubo aparentemente impossível pelo FBI e pela sua ex-namorada. Mas para complicar um pouco as coisas, o roubo de 500 milhões de dólares ocorre a bordo de um voo com 777 passageiros e a 12 mil metros de altura, que viaja de Londres para Zurique.
+[COLOR lime]SINOPSE:[/COLOR]Um incêndio misterioso sai do controle em uma escola para meninas. Agora, todos se perguntam se foi acidente ou intencional.
 </info>
-<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.%20-%20C%C3%B3pia.txt</externallink>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.From-the-Ashes.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]●[/COLOR][COLOR white] Mergulho Noturno (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/a2pyGSNdHBMcwI2a5OiCcaLHRoo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/aZ8dBIvpDFp9cp23MfBiY5mWfuy.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Ray Waller é um ex- jogador de basebol forçado a reformar-se precocemente devido a uma doença degenerativa, que se muda para uma nova casa com a sua preocupada mulher Eve, a filha adolescente Izzy e o seu jovem filho Elliot. Secretamente esperando, contra todas as probabilidades, regressar ao basebol profissional, Ray convence Eve que a cintilante piscina no quintal da nova casa será divertida para os seus filhos e uma boa oportunidade de fisioterapia para ele. Mas um sombrio segredo no passado da casa desencadeará uma força malévola que arrastará a família para as profundezas de um terror inescapável.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.Night-Swim.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
 <channel>
