@@ -1,6 +1,6 @@
 <item>
 <title>[COLOR lime](Ver Video)[/COLOR] VERSÃO 1080p teste</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://oneupload.to/2l6yo79bkv0v</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://oneupload.to/embed-2l6yo79bkv0v</link>
 <subtitle>LEGENDAS</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/qXB0yZbECic73jLrqvCgcpL9dhU.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/cJ66KEbD88cQXBXVfBFG4TeO13B.jpg</fanart>
