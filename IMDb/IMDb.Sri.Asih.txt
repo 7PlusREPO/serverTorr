@@ -22,7 +22,7 @@
 <item>
 <title>[COLOR lime](Ver Video)[/COLOR] VERSÃO 1080p Legendado</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://oneupload.to/embed-95czxkx6aous</link>
-<subtitle>LEGENDAS</subtitle>
+<subtitle>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/Sri%20Asih.srt</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/wShcJSKMFg1Dy1yq7kEZuay6pLS.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/atn3cbaqNJl7mw7p9QDiMIfHAK2.jpg</fanart>
 <info>
