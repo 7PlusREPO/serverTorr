@@ -1,9 +1,9 @@
 <item>
-<title>[COLOR lime](Ver Video)[/COLOR] teste VERSÃO 1080p Legendado</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://lylxan.com/e/igvvbby38j0s</link>
+<title>[COLOR lime](Ver Video)[/COLOR] O Abismo VERSÃO 1080p Dublado</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://oneupload.to/embed-hm7z58zouu0g</link>
 <subtitle>LEGENDAS</subtitle>
-<thumbnail>https://image.tmdb.org/t/p/original/wShcJSKMFg1Dy1yq7kEZuay6pLS.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/atn3cbaqNJl7mw7p9QDiMIfHAK2.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/nAZn5jNqEUpBY9oUSQ9I2tekUVj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/v87noQM2ON5XzhYUzywPUG1Im25.jpg</fanart>
 <info>
 [COLOR lime]●[/COLOR]ztreamhub.com
 [COLOR lime]Gênero:[/COLOR] Ação | Drama | Fantasia
