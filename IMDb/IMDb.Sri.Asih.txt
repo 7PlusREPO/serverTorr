@@ -1,4 +1,25 @@
 <item>
+<title>[COLOR lime](Ver Video)[/COLOR] SERIE VERSÃO 1080p Dublado</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.is/e/6qx0679gbpkjql</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/nAZn5jNqEUpBY9oUSQ9I2tekUVj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/v87noQM2ON5XzhYUzywPUG1Im25.jpg</fanart>
+<info>
+[COLOR lime]●[/COLOR]ztreamhub.com
+[COLOR lime]Gênero:[/COLOR] Ação | Drama | Fantasia
+[COLOR lime]Duração:[/COLOR] 2 H 13 Min.
+[COLOR lime]Lançamento:[/COLOR] 2022
+[COLOR lime]Qualidade:[/COLOR] WEB-DL
+[COLOR lime]Formato:[/COLOR] MKV
+[COLOR lime]Áudio:[/COLOR] Indonésio
+[COLOR lime]Legenda:[/COLOR] PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10 (2.0)
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 6,4
+</info>
+</item>
++++++++++
+<item>
 <title>[COLOR lime](Ver Video)[/COLOR] O Abismo VERSÃO 1080p Dublado</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://oneupload.to/embed-hm7z58zouu0g</link>
 <subtitle>LEGENDAS</subtitle>
