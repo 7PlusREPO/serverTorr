@@ -1,5 +1,16 @@
 <channels>
 
+
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Zona de Risco (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/cCRAMT530bTcZ4xs6E6pTUoAalE.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/oBIQDKcqNxKckjugtmzpIIOgoc4.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Em Land of Bad, um piloto de drone das Forças Aéreas é a única esperança de uma força-tarefa presa em uma emboscada. No thriller de ação, a missão de um esquadrão de operações especiais da Força Delta vira um grande desastre.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.969492-land-of-bad.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] Mea Culpa (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/roxD9VCTTXYfPjVj9HiSC5IMtc7.jpg</thumbnail>
