@@ -1,6 +1,6 @@
 <item>
 <title>[COLOR lime](Ver Video)[/COLOR] VERSÃO 1080p</title>
-<link>plugin://plugin.video.resolverurl_player?url=</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.is/e/gn830vlmugjeom</link>
 <subtitle>LEGENDAS</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/1ojCiMpYmCciIFuEcgLOOGLbUND.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/8te0oIAuUOxi03RbM1SfL3xUYHB.jpg</fanart>
