@@ -1,0 +1,20 @@
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO 1080p</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/rw7o4dpvuj4dgz</link>
+<subtitle>LEGENDAS</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/mTCUzU3VhueEIxK1y5mBnHBIZPQ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ekRp1sEA8pnuzVHQkUESTgNSKdW.jpg</fanart>
+<info>
+[COLOR lime]●[/COLOR]Online
+[COLOR lime]Gênero:[/COLOR] Ação | Ficção
+[COLOR lime]Duração:[/COLOR] 1 H 40 Min.
+[COLOR lime]Lançamento:[/COLOR] 2024
+[COLOR lime]Qualidade:[/COLOR] WEB-DL
+[COLOR lime]Formato:[/COLOR] MKV
+[COLOR lime]Áudio:[/COLOR] Português | PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10 (5.1)
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 5,8
+</info>
+</item>
++++++++++
