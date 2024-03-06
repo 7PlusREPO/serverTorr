@@ -1,7 +1,7 @@
 <channels>
 
 <channel>
-<name>[B][COLOR lime]-[/COLOR][COLOR white] Upgrade: As Cores do Amor (2024)[/COLOR][/B]</name>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Mea Culpa (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/roxD9VCTTXYfPjVj9HiSC5IMtc7.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/nqywbJGJ4yfUGzumvd5gmGxchjn.jpg</fanart>
 <info>
