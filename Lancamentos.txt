@@ -7,7 +7,7 @@
 <info>
 [COLOR lime]SINOPSE:[/COLOR]Em uma nova escola e agora no ensino médio, o primeiro dia de aula já reservava uma surpresa: os amigos Mônica (Sophia Valverde), Cebola (Xande Valois), Magali (Bianca Paiva), Cascão (Theo Salomão) e Milena (Carol Roberto) descobrem que o Museu do Limoeiro será leiloado. A turma decide se unir em uma missão para tentar salvá-lo, e enquanto investigam o que está acontecendo, eles não demoram muito para perceber que podem estar lidando com uma ameaça muito maior do que imaginam.
 </info>
-<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.969492-land-of-bad.txt</externallink>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.1056437-turma-da-monica-jovem-reflexos-do-medo.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
 <channel>
