@@ -1,12 +1,21 @@
 <channels>
 
-
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Criptofraude (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/g8xiqrXnVMIkg7Ejhxe07MqKxpr.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vzO729sITNJ1jB6Y9AJpIhlbvb2.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Neste documentário sobre um crime real, três homens exploram o mercado de criptomoedas para aplicar golpes em investidores e bancar uma vida de luxo.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.1213997-bitconned.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] Argylle - O Superespião (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/1ojCiMpYmCciIFuEcgLOOGLbUND.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/8te0oIAuUOxi03RbM1SfL3xUYHB.jpg</fanart>
 <info>
-[COLOR lime]SINOPSE:[/COLOR]Sinopse resumida: História do maior espião do mundo, Argylle, enquanto ele embarca em uma aventura pelo mundo.
+[COLOR lime]SINOPSE:[/COLOR]História do maior espião do mundo, Argylle, enquanto ele embarca em uma aventura pelo mundo.
 </info>
 <externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.848538-argylle.txt</externallink>
 </channel>
