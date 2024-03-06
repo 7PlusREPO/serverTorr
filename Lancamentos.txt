@@ -2,6 +2,16 @@
 
 <channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] Upgrade: As Cores do Amor (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/roxD9VCTTXYfPjVj9HiSC5IMtc7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/nqywbJGJ4yfUGzumvd5gmGxchjn.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Mea Culpa, dirigido por Tyler Perry, é um filme de suspense criminal onde a advogada criminalista, Mea Harper (Kelly Rowland), aceita pegar o caso Zyair Malloy (Trevante Rhodes), um artista sedutor que foi acusado de assassinato. Mea Harper, então, tem a missão de descobrir se Zyair é ou não o autor do crime, mas Mea descobre que todo mundo têm culpa de algo e se vê em um labirinto entre sua família, seu dever, suas emoções e desejos.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.1090874-mea-culpa.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Upgrade: As Cores do Amor (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/rqfqLTNpueBtdtMO0QZ8XzQaDi1.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/pRmF6VBsRnvWCbLB9P80UvZFMyK.jpg</fanart>
 <info>
