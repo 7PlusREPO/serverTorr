@@ -11,6 +11,16 @@
 <externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.848538-argylle.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Code 8: Renegados - Parte 2 (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/mTCUzU3VhueEIxK1y5mBnHBIZPQ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ekRp1sEA8pnuzVHQkUESTgNSKdW.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Em uma cidade onde pessoas com superpoderes são vigiadas e oprimidas, um ex-criminoso se une a um traficante para proteger uma adolescente de um policial corrupto.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.932420-code-8-part-ii.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 
 
 </channels>
