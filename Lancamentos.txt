@@ -1,6 +1,16 @@
 <channels>
 
 <channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Upgrade: As Cores do Amor (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/rqfqLTNpueBtdtMO0QZ8XzQaDi1.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pRmF6VBsRnvWCbLB9P80UvZFMyK.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Ana é uma estagiária ambiciosa que sonha com uma carreira no mundo da arte enquanto tenta impressionar sua exigente chefe, Claire. Quando ela é promovida para a primeira classe em uma viagem de trabalho, ela conhece o belo Will, que confunde Ana com seu chefe – uma mentira inocente que desencadeia uma cadeia glamorosa de eventos, romance e oportunidades, até que sua mentira ameaça vir à tona.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.1014590-upgraded.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] Criptofraude (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/g8xiqrXnVMIkg7Ejhxe07MqKxpr.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/vzO729sITNJ1jB6Y9AJpIhlbvb2.jpg</fanart>
