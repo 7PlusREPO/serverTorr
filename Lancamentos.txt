@@ -1,6 +1,16 @@
 <channels>
 
 <channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Lift: Golpe no Ar (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/ca74jjIYRVDdsnlWk8JzyVY49dE.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rz8GGX5Id2hCW1KzAIY4xwbQw1w.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Um ladrão profissional e o seu bando genial lançam-se num golpe arrojado: roubar 500 milhões de dólares em ouro de um cofre num avião... a 12 000 metros de altitude.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.955916-lift.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] O Retorno dos Thundermans (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/1tIYEyjK1LLcX0jYK3ZouT7601o.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/7Z4mwfQGoARtNxxQEPp5hKNclJi.jpg</fanart>
