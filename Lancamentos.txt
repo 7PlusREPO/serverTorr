@@ -1,6 +1,16 @@
 <channels>
 
 <channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Em Ruínas (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/vT3xahepzP796ei0NiZIZ6t8vsl.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pWsD91G2R1Da3AKM3ymr3UoIfRb.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Após um terremoto transformar Seul em uma terra sem lei, um caçador decide resgatar uma adolescente sequestrada por um médico insano.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.933131-em-ruinas.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] Lift: Golpe no Ar (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/ca74jjIYRVDdsnlWk8JzyVY49dE.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/rz8GGX5Id2hCW1KzAIY4xwbQw1w.jpg</fanart>
