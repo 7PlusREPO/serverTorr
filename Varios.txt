@@ -1,0 +1,14 @@
+<channels>
+
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Gamer (2009)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/lMRW0oO8ptAn4Ciqr4Ojawa6GOB.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hfrmgOOfJPS3KHFjOUjy5vh6ZUI.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Kable é a estrela e o herói de culto dos violentos "Slayers". Kable é controlado por Simon, um jovem jogador com o estatuto de estrela de rock, que continuamente desafia todas as probabilidades, levando Kable a alcançar a vitória, a cada semana que passa. Arrancado à sua família, encarcerado e forçado a lutar contra a sua vontade, o gladiador, dos dias de hoje, tem que sobreviver o tempo suficiente para escapar ao jogo, libertar a sua família, recuperar a identidade e salvar a humanidade da impiedosa tecnologia de Castle.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/VARIOS/IMDb.18501-gamer.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+
+</channels>
