@@ -1,11 +1,29 @@
 <item>
-<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO 1080p (LEGENDADO)</title>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO 1080p DUBLADO</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/n0eje444ulq19ek</link>
+<subtitle></subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/cCRAMT530bTcZ4xs6E6pTUoAalE.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/oBIQDKcqNxKckjugtmzpIIOgoc4.jpg</fanart>
+<info>
+[COLOR lime]Gênero:[/COLOR] Ação | Suspense
+[COLOR lime]Duração:[/COLOR] 1 H 53 Min.
+[COLOR lime]Lançamento:[/COLOR] 2024
+[COLOR lime]Qualidade:[/COLOR] WEB-DL
+[COLOR lime]Formato:[/COLOR] MKV
+[COLOR lime]Áudio:[/COLOR] Português | PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10 
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 6,5
+</info>
+</item>
++++++++++
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO 1080p LEGENDADO</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/84mxm0n9b6prqp0</link>
 <subtitle>https://subs.warezcdn.com/235012-PTB.srt</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/cCRAMT530bTcZ4xs6E6pTUoAalE.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/oBIQDKcqNxKckjugtmzpIIOgoc4.jpg</fanart>
 <info>
-[COLOR lime]●[/COLOR]Online
 [COLOR lime]Gênero:[/COLOR] Ação | Suspense
 [COLOR lime]Duração:[/COLOR] 1 H 53 Min.
 [COLOR lime]Lançamento:[/COLOR] 2024
@@ -13,10 +31,11 @@
 [COLOR lime]Formato:[/COLOR] MKV
 [COLOR lime]Áudio:[/COLOR] Inglês
 [COLOR lime]Legenda:[/COLOR] PT-BR
-[COLOR lime]Qualidade de Áudio:[/COLOR] 10 (5.1)
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10 
 [COLOR lime]Qualidade de Vídeo:[/COLOR] 10
 [COLOR lime]IMDb:[/COLOR] 6,5
 </info>
 </item>
 +++++++++
+
 
