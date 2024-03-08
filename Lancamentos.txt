@@ -1,5 +1,16 @@
 <channels>
 
+
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Ricky Stanicky (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/oJQdLfrpl4CQsHAKIxd3DJqYTVq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/syozWkk4Qi4s9RWefcfwCmBqRrt.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Três amigos de infância pregam uma peça que dá errado e inventam o imaginário Ricky Stanicky para não serem pegos! Vinte anos depois, eles ainda usam o inexistente Ricky como um álibi para seus comportamentos imaturos.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.1022690-ricky-stanicky.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] A Donzela (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/ji5sD9AS4UlbJYB0HJCRQMXrgZd.jpg</thumbnail>
@@ -7,7 +18,7 @@
 <info>
 [COLOR lime]SINOPSE:[/COLOR]O casamento de uma jovem com um príncipe encantador transforma-se numa luta pela sobrevivência quando ela é oferecida a um dragão como sacrifício.
 </info>
-<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.763215-damsel.txt</externallink>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.969492-land-of-bad.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
 <channel>
