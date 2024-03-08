@@ -1,6 +1,16 @@
 <channels>
 
 <channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] O Retorno dos Thundermans (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/1tIYEyjK1LLcX0jYK3ZouT7601o.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7Z4mwfQGoARtNxxQEPp5hKNclJi.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]A família Thunderman está vivendo na cidade de Metroburg, onde lutam contra o crime há 3 anos. De repente, são enviados de volta para Huddenville e precisam se adaptar novamente. Enquanto Hank e Barb tentam voltar para casa, os outros membros da família tentam recuperar os poderes de super-heróis e fazer amigos.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.58981-the-thundermans.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] Águas Negras (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/gf7byRrH3m0URyBQj78t21RfloF.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/aZ8dBIvpDFp9cp23MfBiY5mWfuy.jpg</fanart>
