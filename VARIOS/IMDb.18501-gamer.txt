@@ -1,0 +1,21 @@
+<item>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO 1080p</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/n0rmnz7jslww40m</link>
+<subtitle>https://subs.warezcdn.com/6456-PT.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/original/lMRW0oO8ptAn4Ciqr4Ojawa6GOB.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hfrmgOOfJPS3KHFjOUjy5vh6ZUI.jpg</fanart>
+<info>
+[COLOR lime]●[/COLOR]Online
+[COLOR lime]Gênero:[/COLOR] Ação | Ficção | Suspense
+[COLOR lime]Duração:[/COLOR] 1 H 35 Min.
+[COLOR lime]Lançamento:[/COLOR] 2009
+[COLOR lime]Qualidade:[/COLOR] WEB-DL
+[COLOR lime]Formato:[/COLOR] MKV
+[COLOR lime]Áudio:[/COLOR] Português | Inglês
+[COLOR lime]Legenda:[/COLOR] PT-BR
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10 (5.1)
+[COLOR lime]Qualidade de Vídeo:[/COLOR] 10
+[COLOR lime]IMDb:[/COLOR] 5,8
+</info>
+</item>
++++++++++
