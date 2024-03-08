@@ -1,6 +1,16 @@
 <channels>
 
 <channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] A Donzela (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/ji5sD9AS4UlbJYB0HJCRQMXrgZd.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/t982tzXvro013v2mD0EDXXahv6i.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]O casamento de uma jovem com um príncipe encantador transforma-se numa luta pela sobrevivência quando ela é oferecida a um dragão como sacrifício.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.969492-land-of-bad.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] Turma da Mônica Jovem: Reflexos do Medo (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/wBIyjl6kVxPmyPSUWhlk4PINxz5.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/9AfoiS7LNeV7aRSuRskY71s5jpi.jpg</fanart>
