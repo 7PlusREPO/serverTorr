@@ -1,6 +1,26 @@
 <channels>
 
 <channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Godzilla vs. Kong (2021)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/inJjDhCjfhh3RtrJWBmmDqeuSYC.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Uma luta pelo reino dos monstros, entre o imparável Godzilla e o gigantesco Kong, num mundo onde o homem e os monstros coexistem e os grupos inimigos querem manipular os Titãs para que a guerra comece a surgir sob o disfarce de uma conspiração nefasta, ameaçando acabar com a vida no Planeta.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/VARIOS/IMDb.399566-godzilla-vs-kong.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] As Marvels (2023)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/w4pRLYYbhHn3sh9kqRgPZM6GjyS.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Enviada para uma fenda espacial anómala ligada a um Kree, os poderes de Carol Danvers, a Capitã Marvel, misturam-se com os da superfã de Jersey City, Kamala Khan, conhecida como Sra. Marvel, e a sobrinha de Carol, agora S.A.B.E.R. astronauta Monica Rambeau. Juntas, unem esforços e aprendem a trabalhar para salvar o universo como “As Marvel.”
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/VARIOS/IMDb.609681-the-marvels.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] Gamer (2009)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/lMRW0oO8ptAn4Ciqr4Ojawa6GOB.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/hfrmgOOfJPS3KHFjOUjy5vh6ZUI.jpg</fanart>
