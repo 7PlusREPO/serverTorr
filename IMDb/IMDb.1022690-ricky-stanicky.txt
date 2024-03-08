@@ -5,14 +5,13 @@
 <thumbnail>https://image.tmdb.org/t/p/original/oJQdLfrpl4CQsHAKIxd3DJqYTVq.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/syozWkk4Qi4s9RWefcfwCmBqRrt.jpg</fanart>
 <info>
-[COLOR lime]●[/COLOR]Online
 [COLOR lime]Gênero:[/COLOR] Comédia
 [COLOR lime]Duração:[/COLOR] 50 Min.
 [COLOR lime]Lançamento:[/COLOR] 2024
 [COLOR lime]Qualidade:[/COLOR] WEB-DL
 [COLOR lime]Formato:[/COLOR] MKV
 [COLOR lime]Áudio:[/COLOR] Português | PT-BR
-[COLOR lime]Qualidade de Áudio:[/COLOR] 10 (5.1)
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10 
 [COLOR lime]Qualidade de Vídeo:[/COLOR] 10
 [COLOR lime]IMDb:[/COLOR] 7,0
 </info>
@@ -25,7 +24,6 @@
 <thumbnail>https://image.tmdb.org/t/p/original/oJQdLfrpl4CQsHAKIxd3DJqYTVq.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/syozWkk4Qi4s9RWefcfwCmBqRrt.jpg</fanart>
 <info>
-[COLOR lime]●[/COLOR]Online
 [COLOR lime]Gênero:[/COLOR] Comédia
 [COLOR lime]Duração:[/COLOR] 1 H 54 Min.
 [COLOR lime]Lançamento:[/COLOR] 2024
@@ -33,7 +31,7 @@
 [COLOR lime]Formato:[/COLOR] MKV
 [COLOR lime]Áudio:[/COLOR] Inglês
 [COLOR lime]Legenda:[/COLOR] PT-BR
-[COLOR lime]Qualidade de Áudio:[/COLOR] 10 (5.1)
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10 
 [COLOR lime]Qualidade de Vídeo:[/COLOR] 10
 [COLOR lime]IMDb:[/COLOR] 6,2
 </info>

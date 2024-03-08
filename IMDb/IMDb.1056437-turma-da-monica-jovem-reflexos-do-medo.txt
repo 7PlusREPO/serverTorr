@@ -12,7 +12,7 @@
 [COLOR lime]Qualidade:[/COLOR] WEB-DL
 [COLOR lime]Formato:[/COLOR] MKV
 [COLOR lime]Áudio:[/COLOR] Português | PT-BR
-[COLOR lime]Qualidade de Áudio:[/COLOR] 10 (5.1)
+[COLOR lime]Qualidade de Áudio:[/COLOR] 10 
 [COLOR lime]Qualidade de Vídeo:[/COLOR] 10
 [COLOR lime]IMDb:[/COLOR] 3,1
 </info>
