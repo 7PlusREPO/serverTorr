@@ -1,7 +1,7 @@
 <channels>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR][COLOR white] Lançamentos[/COLOR][/B]</name>
+<name>[B][COLOR lime]L[/COLOR][COLOR white]ançamentos[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
 <info>
@@ -15,45 +15,17 @@
 </channel>
 «««««««««««««««««««««««««
 <channel>
-<name>[B][COLOR lime]●[/COLOR][COLOR white] Filmes (2023)[/COLOR][/B]</name>
-<thumbnail>https://www.themoviedb.org/t/p/original/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/wCte7A4O2L7CAiw70fbFuvkngA7.jpg</fanart>
+<name>[B][COLOR lime]F[/COLOR][COLOR white]ilmes[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
 <info>
-[COLOR lime]SINOPSE:[/COLOR] Na década de 1920, em Oklahoma, o povo da nação Osage começa a ser assassinado após petróleo ser descoberto sob suas terras, até que o FBl entra em cena para desvendar o mistério.
-[COLOR lime]IMDb:[/COLOR] 8.0
+[COLOR lime]SINOPSE:[/COLOR] Após uma infância pobre, Foreman canaliza sua raiva e se torna medalhista de ouro olímpico e campeão mundial de pesos-pesados. Logo após, vive uma experiência de quase morte que o leva dos ringues de boxe aos púlpitos. 
+[COLOR lime]IMDb:[/COLOR] 6.6
 [COLOR lime]Idioma:[/COLOR] Português | Inglês
 [COLOR lime]Legenda:[/COLOR] Português
 [COLOR lime]Duração:[/COLOR] 3 H 26 Min.
 </info>
-<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/Menu1.txt</externallink>
-</channel>
-«««««««««««««««««««««««««
-<channel>
-<name>[B][COLOR lime]●[/COLOR][COLOR white] Filmes (2022)[/COLOR][/B]</name>
-<thumbnail>https://www.themoviedb.org/t/p/original/5MPdNRHzd0NbOJbrrXO77DVHP4n.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/yg3djJ3JDhoyVu8G7tW4vb5oNIg.jpg</fanart>
-<info>
-Em meio a uma futura guerra entre a raça humana e as forças da inteligência artificial, Joshua, um endurecido ex-agente das forças especiais que lamenta o desaparecimento de sua esposa, é recrutado para caçar e matar o Criador, o indescritível arquiteto da IA avançada que desenvolveu uma arma misteriosa com o poder de acabar com a guerra - e a própria humanidade.
-[COLOR lime]IMDb:[/COLOR] 7.1
-[COLOR lime]Idioma:[/COLOR] Português | Inglês
-[COLOR lime]Legenda:[/COLOR] Português
-[COLOR lime]Duração:[/COLOR] 2h 14 Min.
-</info>
-<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/menu_itens4</externallink>
-</channel>
-«««««««««««««««««««««««««
-<channel>
-<name>[B][COLOR lime]●[/COLOR][COLOR white] Séries[/COLOR][/B]</name>
-<thumbnail>https://www.themoviedb.org/t/p/original/A6cuXRLz2tVBEnSkwK6gWlP37HZ.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/57JocxmicOoAMhkUSmdKBlpZWMT.jpg</fanart>
-<info>
-Em Indiana Jones e a Relíquia do Destino, Indiana Jones (Harrisson Ford), famoso arqueólogo, professor e aventureiro, embarca em mais uma missão inesperada. Neste retorno do herói lendário, Indiana Jones, na quinta parcela da icônica série de filmes, encontra-se em uma nova era, aproximando-se da aposentadoria. Ele luta para se encaixar em um mundo que parece tê-lo superado.
-[COLOR lime]IMDb:[/COLOR] 5.4
-[COLOR lime]Idioma:[/COLOR] Português | Inglês
-[COLOR lime]Legenda:[/COLOR] Português
-[COLOR lime]Duração:[/COLOR] 2h 34 Min.
-</info>
-<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDbSeries</externallink>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/Lancamentos.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
 
