@@ -7,7 +7,7 @@
 <info>
 [COLOR lime]SINOPSE:[/COLOR]O casamento de uma jovem com um príncipe encantador transforma-se numa luta pela sobrevivência quando ela é oferecida a um dragão como sacrifício.
 </info>
-<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.969492-land-of-bad.txt</externallink>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.763215-damsel.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
 <channel>
