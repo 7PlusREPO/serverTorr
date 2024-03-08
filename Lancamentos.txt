@@ -1,6 +1,15 @@
 <channels>
 
-
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Águas Negras (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/gf7byRrH3m0URyBQj78t21RfloF.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/aZ8dBIvpDFp9cp23MfBiY5mWfuy.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Ray Waller é um ex- jogador de basebol forçado a reformar-se precocemente devido a uma doença degenerativa, que se muda para uma nova casa com a sua preocupada mulher Eve, a filha adolescente Izzy e o seu jovem filho Elliot. Secretamente esperando, contra todas as probabilidades, regressar ao basebol profissional, Ray convence Eve que a cintilante piscina no quintal da nova casa será divertida para os seus filhos e uma boa oportunidade de fisioterapia para ele. Mas um sombrio segredo no passado da casa desencadeará uma força malévola que arrastará a família para as profundezas de um terror inescapável.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.1072342-night-swim.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] Ricky Stanicky (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/oJQdLfrpl4CQsHAKIxd3DJqYTVq.jpg</thumbnail>
