@@ -1,6 +1,16 @@
 <channels>
 
 <channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] O Aprendiz do Tigre (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/iiid1xMhoAcW83VJ9LdAqf4Vtbr.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/gcnc7ABoQ0aE752fpGxDzwRjmJ0.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Conta a história de Tom, um menino que se torna aprendiz de feiticeiro ao conhecer o tigre falante Mr. Hu. O animal muda de forma e leva o garoto a um mundo mágico com outros seres mitológicos, como a fênix e o dragão.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.598387-the-tiger-s-apprentice.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] Lights Out (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/gCOSDDyN0qA8rGoVwsZc72v3RuZ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/cIHFTyIf0LjRzjSnwtCAGzwTOKK.jpg</fanart>
