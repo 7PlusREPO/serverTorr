@@ -1,11 +1,11 @@
 <item>
-<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO 1080p (Dublado/Português)</title>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO (Dublado/Português)</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/n0ezklr4ike66k</link>
 <subtitle>LEGENDAS</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/wBIyjl6kVxPmyPSUWhlk4PINxz5.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/9AfoiS7LNeV7aRSuRskY71s5jpi.jpg</fanart>
 <info>
-[COLOR lime]●[/COLOR]Online
+
 [COLOR lime]Gênero:[/COLOR] Aventura | Comédia | Fantasia
 [COLOR lime]Duração:[/COLOR] 1 H 28 Min.
 [COLOR lime]Lançamento:[/COLOR] 2024

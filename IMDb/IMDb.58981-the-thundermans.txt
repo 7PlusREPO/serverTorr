@@ -1,11 +1,10 @@
 <item>
-<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO 1080p DUBLADO</title>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO DUBLADO</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/3nwg6rl8al07mo</link>
 <subtitle>LEGENDAS</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/1tIYEyjK1LLcX0jYK3ZouT7601o.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/7Z4mwfQGoARtNxxQEPp5hKNclJi.jpg</fanart>
 <info>
-[COLOR lime]●[/COLOR]Online
 [COLOR lime]Gênero:[/COLOR] Ação | Comédia | Ficção
 [COLOR lime]Duração:[/COLOR] 1 H 10 Min.
 [COLOR lime]Lançamento:[/COLOR] 2024
@@ -19,7 +18,7 @@
 </item>
 +++++++++
 <item>
-<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO 1080p LEGENDADO</title>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO LEGENDADO</title>
 <link>plugin://plugin.video.resolverurl_player?url=</link>
 <subtitle>LEGENDAS</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/1tIYEyjK1LLcX0jYK3ZouT7601o.jpg</thumbnail>

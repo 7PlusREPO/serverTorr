@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO 1080p DUBLADO</title>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO DUBLADO</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/wnq8e7eotg9zzp</link>
 <subtitle>LEGENDAS</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/rqfqLTNpueBtdtMO0QZ8XzQaDi1.jpg</thumbnail>
@@ -18,7 +18,7 @@
 </item>
 +++++++++
 <item>
-<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO 1080p LEGENDADO</title>
+<title>[COLOR lime](Ver Video)[/COLOR] VERSÃO LEGENDADO</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.si/e/3nwr1m38imk88o0</link>
 <subtitle>https://subs.warezcdn.com/234536-PTB.srt</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/original/rqfqLTNpueBtdtMO0QZ8XzQaDi1.jpg</thumbnail>
