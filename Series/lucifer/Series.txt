@@ -1,8 +1,8 @@
-<channels>
+mporada<channels>
 
 
 <channel>
-<name>[B][COLOR lime]-[/COLOR][COLOR white] Lucifer (2016)[/COLOR][/B]</name>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Lucifer (2016) 1 Temporada[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/jMiv48FkxBMW7aqEm0OIT2yN6OW.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/iZV0O5VdLsjrYye9kvDIaUS3U16.jpg</fanart>
 <info>
