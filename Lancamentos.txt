@@ -1,6 +1,26 @@
 <channels>
 
 <channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Foe (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/eTPBizhkX6B9NgzPzkhVIOvwXxZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9u5fTy6XdDIjzTIf60Li6f9q0nu.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Em 1972, um avião uruguaio despenhou-se no inóspito coração dos Andes, mas os sobreviventes encontraram a sua melhor esperança uns nos outros.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.760245-foe.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] A Sociedade da Neve (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/7fQTmvKgVGxifieVryqqlxohkoW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vdpE5pjJVql5aD6pnzRqlFmgxXf.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Em 1972, um avião uruguaio despenhou-se no inóspito coração dos Andes, mas os sobreviventes encontraram a sua melhor esperança uns nos outros.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.906126-la-sociedad-de-la-nieve.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] O Aprendiz do Tigre (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/iiid1xMhoAcW83VJ9LdAqf4Vtbr.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/gcnc7ABoQ0aE752fpGxDzwRjmJ0.jpg</fanart>
