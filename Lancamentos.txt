@@ -1,6 +1,16 @@
 <channels>
 
 <channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] The Book of Clarence (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/p6rz1Kz9YA9TOVRk0R5OUJhg7ry.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/x0kapNdCErgiHSks2FljYT2MO00.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Clarence, um cidadão de Jerusalém sem sorte, embarca numa tentativa mal conduzida de capitalizar a fama e influência do Messias para seu ganho pessoal. A jornada leva-o a uma exploração da fé e a um caminho inesperado.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.976584-the-book-of-clarence.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] Foe (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/eTPBizhkX6B9NgzPzkhVIOvwXxZ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/9u5fTy6XdDIjzTIf60Li6f9q0nu.jpg</fanart>
