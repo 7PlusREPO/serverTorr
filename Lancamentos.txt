@@ -1,5 +1,16 @@
 <channels>
 
+
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] The Book of Clarence (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/zWEm5oy2tE9ku1KSNM089FmZJ2p.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pwGmXVKUgKN13psUjlhC9zBcq1o.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Cassandra Webb é uma paramédica de Manhattan que tem capacidades de clarividência. Forçada a enfrentar revelações sobre seu passado, cria laços com três jovens destinadas a futuros poderosos... se todas conseguirem sobreviver ao mortífero presente.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.634492-madame-web.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] The Book of Clarence (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/p6rz1Kz9YA9TOVRk0R5OUJhg7ry.jpg</thumbnail>
