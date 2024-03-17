@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP FHD MAX²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND SP FHD MAX²
+http://7go.xyz:8080/8581155638/use1556m/18618
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP FHD¹" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND SP FHD¹
+http://7go.xyz:8080/8581155638/use1556m/125409
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD¹" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND SP HD¹
+http://7go.xyz:8080/8581155638/use1556m/125410
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD¹" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND SP HD¹
+http://7go.xyz:8080/8581155638/use1556m/18619
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND FHD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND FHD²
+http://7go.xyz:8080/8581155638/use1556m/22642
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND HD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND HD²
+http://7go.xyz:8080/8581155638/use1556m/18622
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND HD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND HD²
+http://7go.xyz:8080/8581155638/use1556m/22464
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SD¹" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND SD¹
+http://7go.xyz:8080/8581155638/use1556m/22299
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND CAMPINAS FHD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND CAMPINAS FHD²
+http://7go.xyz:8080/8581155638/use1556m/64618
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND CAMPINAS HD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND CAMPINAS HD²
+http://7go.xyz:8080/8581155638/use1556m/64617
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND CAMPINAS HD¹" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND CAMPINAS HD¹
+http://7go.xyz:8080/8581155638/use1556m/22297
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND RJ FHD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND RJ FHD²
+http://7go.xyz:8080/8581155638/use1556m/64616
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND RJ FHD¹" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND RJ FHD¹
+http://7go.xyz:8080/8581155638/use1556m/125415
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND RJ HD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND RJ HD²
+http://7go.xyz:8080/8581155638/use1556m/22463
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND RJ HD¹" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND RJ HD¹
+http://7go.xyz:8080/8581155638/use1556m/125416
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND BRASILIA HD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND BRASILIA HD²
+http://7go.xyz:8080/8581155638/use1556m/71059
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND BRASILIA HD¹" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND BRASILIA HD¹
+http://7go.xyz:8080/8581155638/use1556m/125417
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND BAHIA HD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND BAHIA HD²
+http://7go.xyz:8080/8581155638/use1556m/71056
+#EXTINF:-1 tvg-id="bandminas.br" tvg-name="BAND BAHIA HD¹" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND BAHIA HD¹
+http://7go.xyz:8080/8581155638/use1556m/125418
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SERGIPE HD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND SERGIPE HD²
+http://7go.xyz:8080/8581155638/use1556m/71061
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND PARA HD¹" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND PARA HD¹
+http://7go.xyz:8080/8581155638/use1556m/44863
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND TV GOIANIA FHD MAX²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND TV GOIANIA FHD MAX²
+http://7go.xyz:8080/8581155638/use1556m/71055
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND TV GOIANIA HD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND TV GOIANIA HD²
+http://7go.xyz:8080/8581155638/use1556m/71054
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND MINAS HD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND MINAS HD²
+http://7go.xyz:8080/8581155638/use1556m/71062
+#EXTINF:-1 tvg-id="bandminashd.br" tvg-name="BAND MINAS HD¹" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND MINAS HD¹
+http://7go.xyz:8080/8581155638/use1556m/125419
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND MINAS FHD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND MINAS FHD²
+http://7go.xyz:8080/8581155638/use1556m/71063
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND TV TAROBA CURITIBA FHD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND TV TAROBA CURITIBA FHD²
+http://7go.xyz:8080/8581155638/use1556m/71057
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND TV TAROBA CURITIBA HD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND TV TAROBA CURITIBA HD²
+http://7go.xyz:8080/8581155638/use1556m/71058
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND RS HD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND RS HD²
+http://7go.xyz:8080/8581155638/use1556m/71060
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND PARANA HD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND PARANA HD²
+http://7go.xyz:8080/8581155638/use1556m/22462
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND TATUAPE HD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND TATUAPE HD²
+http://7go.xyz:8080/8581155638/use1556m/277339
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND CEARA HD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND CEARA HD²
+http://7go.xyz:8080/8581155638/use1556m/277340

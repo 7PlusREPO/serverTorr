@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL FHD¹" tvg-logo="http://i.imgur.com/AzFdZL1.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL FHD¹
+http://7go.xyz:8080/8581155638/use1556m/22658
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL FHD²" tvg-logo="http://i.imgur.com/AzFdZL1.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL FHD²
+http://7go.xyz:8080/8581155638/use1556m/18918
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL HD¹" tvg-logo="http://i.imgur.com/AzFdZL1.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL HD¹
+http://7go.xyz:8080/8581155638/use1556m/18823
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL HD²" tvg-logo="http://i.imgur.com/AzFdZL1.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL HD²
+http://7go.xyz:8080/8581155638/use1556m/22506
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL SD¹" tvg-logo="http://i.imgur.com/AzFdZL1.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL SD¹
+http://7go.xyz:8080/8581155638/use1556m/18727
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="DISCOVERY HOME & HEALTH FHD¹" tvg-logo="http://i.imgur.com/rU00LJp.png" group-title="CANAIS | DISCOVERY",DISCOVERY HOME & HEALTH FHD¹
+http://7go.xyz:8080/8581155638/use1556m/42909
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="DISCOVERY HOME & HEALTH FHD²" tvg-logo="http://i.imgur.com/rU00LJp.png" group-title="CANAIS | DISCOVERY",DISCOVERY HOME & HEALTH FHD²
+http://7go.xyz:8080/8581155638/use1556m/22659
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD¹" tvg-logo="http://i.imgur.com/rU00LJp.png" group-title="CANAIS | DISCOVERY",DISCOVERY HOME & HEALTH HD¹
+http://7go.xyz:8080/8581155638/use1556m/18824
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD²" tvg-logo="http://i.imgur.com/rU00LJp.png" group-title="CANAIS | DISCOVERY",DISCOVERY HOME & HEALTH HD²
+http://7go.xyz:8080/8581155638/use1556m/22507
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="DISCOVERY HOME & HEALTH SD¹" tvg-logo="https://iili.io/DX5cXt.png" group-title="CANAIS | DISCOVERY",DISCOVERY HOME & HEALTH SD¹
+http://7go.xyz:8080/8581155638/use1556m/18728
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="DISCOVERY INVESTIGACAO FHD MAX²" tvg-logo="http://i.imgur.com/r5M4mjv.png" group-title="CANAIS | DISCOVERY",DISCOVERY INVESTIGACAO FHD MAX²
+http://7go.xyz:8080/8581155638/use1556m/22689
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="DISCOVERY INVESTIGACAO FHD¹" tvg-logo="http://i.imgur.com/r5M4mjv.png" group-title="CANAIS | DISCOVERY",DISCOVERY INVESTIGACAO FHD¹
+http://7go.xyz:8080/8581155638/use1556m/42908
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="DISCOVERY INVESTIGACAO FHD²" tvg-logo="http://i.imgur.com/r5M4mjv.png" group-title="CANAIS | DISCOVERY",DISCOVERY INVESTIGACAO FHD²
+http://7go.xyz:8080/8581155638/use1556m/161619
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="DISCOVERY INVESTIGACAO HD¹" tvg-logo="http://i.imgur.com/r5M4mjv.png" group-title="CANAIS | DISCOVERY",DISCOVERY INVESTIGACAO HD¹
+http://7go.xyz:8080/8581155638/use1556m/18844
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="DISCOVERY INVESTIGACAO HD²" tvg-logo="http://i.imgur.com/r5M4mjv.png" group-title="CANAIS | DISCOVERY",DISCOVERY INVESTIGACAO HD²
+http://7go.xyz:8080/8581155638/use1556m/22558
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="DISCOVERY INVESTIGACAO SD¹" tvg-logo="http://i.imgur.com/r5M4mjv.png" group-title="CANAIS | DISCOVERY",DISCOVERY INVESTIGACAO SD¹
+http://7go.xyz:8080/8581155638/use1556m/18748
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="DISCOVERY INVESTIGACAO SD²" tvg-logo="http://i.imgur.com/r5M4mjv.png" group-title="CANAIS | DISCOVERY",DISCOVERY INVESTIGACAO SD²
+http://7go.xyz:8080/8581155638/use1556m/22362
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE FHD¹" tvg-logo="http://i.imgur.com/hQR3xhw.png" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE FHD¹
+http://7go.xyz:8080/8581155638/use1556m/42910
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE FHD²" tvg-logo="http://i.imgur.com/hQR3xhw.png" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE FHD²
+http://7go.xyz:8080/8581155638/use1556m/22661
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE HD²" tvg-logo="http://i.imgur.com/hQR3xhw.png" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE HD²
+http://7go.xyz:8080/8581155638/use1556m/18825
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE HD¹" tvg-logo="http://i.imgur.com/hQR3xhw.png" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE HD¹
+http://7go.xyz:8080/8581155638/use1556m/22509
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE SD¹" tvg-logo="http://i.imgur.com/hQR3xhw.png" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE SD¹
+http://7go.xyz:8080/8581155638/use1556m/18729
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER FHD¹" tvg-logo="http://i.imgur.com/qZ8RMRi.png" group-title="CANAIS | DISCOVERY",DISCOVERY THEATER FHD¹
+http://7go.xyz:8080/8581155638/use1556m/22662
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER FHD²" tvg-logo="http://i.imgur.com/qZ8RMRi.png" group-title="CANAIS | DISCOVERY",DISCOVERY THEATER FHD²
+http://7go.xyz:8080/8581155638/use1556m/42911
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER HD¹" tvg-logo="http://i.imgur.com/qZ8RMRi.png" group-title="CANAIS | DISCOVERY",DISCOVERY THEATER HD¹
+http://7go.xyz:8080/8581155638/use1556m/22510
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER HD²" tvg-logo="http://i.imgur.com/qZ8RMRi.png" group-title="CANAIS | DISCOVERY",DISCOVERY THEATER HD²
+http://7go.xyz:8080/8581155638/use1556m/18826
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER SD¹" tvg-logo="http://i.imgur.com/qZ8RMRi.png" group-title="CANAIS | DISCOVERY",DISCOVERY THEATER SD¹
+http://7go.xyz:8080/8581155638/use1556m/22323
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="DISCOVERY TLC FHD¹" tvg-logo="http://i.imgur.com/JOiDYx6.png" group-title="CANAIS | DISCOVERY",DISCOVERY TLC FHD¹
+http://7go.xyz:8080/8581155638/use1556m/44868
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="DISCOVERY TLC FHD²" tvg-logo="http://i.imgur.com/JOiDYx6.png" group-title="CANAIS | DISCOVERY",DISCOVERY TLC FHD²
+http://7go.xyz:8080/8581155638/use1556m/64732
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="DISCOVERY TLC HD¹" tvg-logo="http://i.imgur.com/JOiDYx6.png" group-title="CANAIS | DISCOVERY",DISCOVERY TLC HD¹
+http://7go.xyz:8080/8581155638/use1556m/22511
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="DISCOVERY TLC HD²" tvg-logo="http://i.imgur.com/JOiDYx6.png" group-title="CANAIS | DISCOVERY",DISCOVERY TLC HD²
+http://7go.xyz:8080/8581155638/use1556m/18874
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="DISCOVERY TLC SD¹" tvg-logo="http://i.imgur.com/JOiDYx6.png" group-title="CANAIS | DISCOVERY",DISCOVERY TLC SD¹
+http://7go.xyz:8080/8581155638/use1556m/22324
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="DISCOVERY TLC SD²" tvg-logo="http://i.imgur.com/JOiDYx6.png" group-title="CANAIS | DISCOVERY",DISCOVERY TLC SD²
+http://7go.xyz:8080/8581155638/use1556m/18780
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO FHD¹" tvg-logo="http://i.imgur.com/KFFFJgv.png" group-title="CANAIS | DISCOVERY",DISCOVERY TURBO FHD¹
+http://7go.xyz:8080/8581155638/use1556m/42912
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO FHD²" tvg-logo="http://i.imgur.com/KFFFJgv.png" group-title="CANAIS | DISCOVERY",DISCOVERY TURBO FHD²
+http://7go.xyz:8080/8581155638/use1556m/22663
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO HD¹" tvg-logo="http://i.imgur.com/KFFFJgv.png" group-title="CANAIS | DISCOVERY",DISCOVERY TURBO HD¹
+http://7go.xyz:8080/8581155638/use1556m/22512
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO HD²" tvg-logo="http://i.imgur.com/KFFFJgv.png" group-title="CANAIS | DISCOVERY",DISCOVERY TURBO HD²
+http://7go.xyz:8080/8581155638/use1556m/18827
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO SD¹" tvg-logo="http://i.imgur.com/KFFFJgv.png" group-title="CANAIS | DISCOVERY",DISCOVERY TURBO SD¹
+http://7go.xyz:8080/8581155638/use1556m/18731
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO SD²" tvg-logo="http://i.imgur.com/KFFFJgv.png" group-title="CANAIS | DISCOVERY",DISCOVERY TURBO SD²
+http://7go.xyz:8080/8581155638/use1556m/22325
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD FHD¹" tvg-logo="http://i.imgur.com/hqugBkC.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD FHD¹
+http://7go.xyz:8080/8581155638/use1556m/22664
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD FHD²" tvg-logo="http://i.imgur.com/hqugBkC.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD FHD²
+http://7go.xyz:8080/8581155638/use1556m/42913
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD HD¹" tvg-logo="http://i.imgur.com/hqugBkC.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD HD¹
+http://7go.xyz:8080/8581155638/use1556m/22513
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD HD²" tvg-logo="http://i.imgur.com/hqugBkC.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD HD²
+http://7go.xyz:8080/8581155638/use1556m/18828
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD SD¹" tvg-logo="http://i.imgur.com/hqugBkC.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD SD¹
+http://7go.xyz:8080/8581155638/use1556m/22326

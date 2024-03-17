@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV! FHD¹" tvg-logo="http://i.imgur.com/WfnlOSA.png" group-title="CANAIS | ABERTOS",REDE TV! FHD¹
+http://7go.xyz:8080/8581155638/use1556m/31591
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV! FHD²" tvg-logo="http://i.imgur.com/WfnlOSA.png" group-title="CANAIS | ABERTOS",REDE TV! FHD²
+http://7go.xyz:8080/8581155638/use1556m/64620
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV! HD²" tvg-logo="http://i.imgur.com/WfnlOSA.png" group-title="CANAIS | ABERTOS",REDE TV! HD²
+http://7go.xyz:8080/8581155638/use1556m/22606
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV! SD¹" tvg-logo="http://i.imgur.com/WfnlOSA.png" group-title="CANAIS | ABERTOS",REDE TV! SD¹
+http://7go.xyz:8080/8581155638/use1556m/64619
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV! SD²" tvg-logo="http://i.imgur.com/WfnlOSA.png" group-title="CANAIS | ABERTOS",REDE TV! SD²
+http://7go.xyz:8080/8581155638/use1556m/31376
+#EXTINF:-1 tvg-id="" tvg-name="TV ARAPUAN HD³" tvg-logo="https://www.tvarapuan.com.br/2021/images/site/logo.png" group-title="CANAIS | ABERTOS",TV ARAPUAN HD³
+http://7go.xyz:8080/8581155638/use1556m/162390
+#EXTINF:-1 tvg-id="cntriohd.br" tvg-name="CNT FHD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png" group-title="CANAIS | ABERTOS",CNT FHD¹
+http://7go.xyz:8080/8581155638/use1556m/18916
+#EXTINF:-1 tvg-id="" tvg-name="COM BRASIL TV FHD¹" tvg-logo="http://i.imgur.com/HGvpbBj.png" group-title="CANAIS | ABERTOS",COM BRASIL TV FHD¹
+http://7go.xyz:8080/8581155638/use1556m/114058
+#EXTINF:-1 tvg-id="" tvg-name="FUTURA FHD¹" tvg-logo="http://i.imgur.com/Umkc4Xp.png" group-title="CANAIS | ABERTOS",FUTURA FHD¹
+http://7go.xyz:8080/8581155638/use1556m/114060
+#EXTINF:-1 tvg-id="" tvg-name="FUTURA HD¹" tvg-logo="http://i.imgur.com/Umkc4Xp.png" group-title="CANAIS | ABERTOS",FUTURA HD¹
+http://7go.xyz:8080/8581155638/use1556m/114061
+#EXTINF:-1 tvg-id="" tvg-name="FUTURA SD²" tvg-logo="http://i.imgur.com/Umkc4Xp.png" group-title="CANAIS | ABERTOS",FUTURA SD²
+http://7go.xyz:8080/8581155638/use1556m/114062
+#EXTINF:-1 tvg-id="" tvg-name="RBI TV HD¹" tvg-logo="http://i.imgur.com/2qxWQer.png" group-title="CANAIS | ABERTOS",RBI TV HD¹
+http://7go.xyz:8080/8581155638/use1556m/114053
+#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL SD²" tvg-logo="http://i.imgur.com/t7HCwoo.png" group-title="CANAIS | ABERTOS",REDE BRASIL SD²
+http://7go.xyz:8080/8581155638/use1556m/114063
+#EXTINF:-1 tvg-id="" tvg-name="REDE MINAS FHD¹" tvg-logo="http://i.imgur.com/1r9Ny9q.png" group-title="CANAIS | ABERTOS",REDE MINAS FHD¹
+http://7go.xyz:8080/8581155638/use1556m/115830
+#EXTINF:-1 tvg-id="" tvg-name="REDE MINAS HD²" tvg-logo="http://i.imgur.com/1r9Ny9q.png" group-title="CANAIS | ABERTOS",REDE MINAS HD²
+http://7go.xyz:8080/8581155638/use1556m/115831
+#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV BRASIL FHD¹" tvg-logo="http://i.imgur.com/rG7MTVv.png" group-title="CANAIS | ABERTOS",TV BRASIL FHD¹
+http://7go.xyz:8080/8581155638/use1556m/27888
+#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV BRASIL HD¹" tvg-logo="http://i.imgur.com/rG7MTVv.png" group-title="CANAIS | ABERTOS",TV BRASIL HD¹
+http://7go.xyz:8080/8581155638/use1556m/30256
+#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV BRASIL HD²" tvg-logo="http://i.imgur.com/rG7MTVv.png" group-title="CANAIS | ABERTOS",TV BRASIL HD²
+http://7go.xyz:8080/8581155638/use1556m/64623
+#EXTINF:-1 tvg-id="tvcamara.br" tvg-name="TV CAMARA FHD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="CANAIS | ABERTOS",TV CAMARA FHD¹
+http://7go.xyz:8080/8581155638/use1556m/25673
+#EXTINF:-1 tvg-id="tvcamara.br" tvg-name="TV CAMARA HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="CANAIS | ABERTOS",TV CAMARA HD¹
+http://7go.xyz:8080/8581155638/use1556m/64622
+#EXTINF:-1 tvg-id="" tvg-name="TV CLUBE SAO JOSE DO NORTE HD*" tvg-logo="http://i.ytimg.com/an/8RnhAjEWCiJAqBJHKIIsUQ/featured_channel.jpg?v=5f1ce202" group-title="CANAIS | ABERTOS",TV CLUBE SAO JOSE DO NORTE HD*
+http://7go.xyz:8080/8581155638/use1556m/55477
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA PARA HD*" tvg-logo="http://i.imgur.com/DLx2hhK.png" group-title="CANAIS | ABERTOS",TV CULTURA PARA HD*
+http://7go.xyz:8080/8581155638/use1556m/50094
+#EXTINF:-1 tvg-id="aande.br" tvg-name="TV DIARIO FHD¹" tvg-logo="http://i.imgur.com/btvewWR.png" group-title="CANAIS | ABERTOS",TV DIARIO FHD¹
+http://7go.xyz:8080/8581155638/use1556m/25670
+#EXTINF:-1 tvg-id="aande.br" tvg-name="TV DIARIO HD¹" tvg-logo="http://i.imgur.com/btvewWR.png" group-title="CANAIS | ABERTOS",TV DIARIO HD¹
+http://7go.xyz:8080/8581155638/use1556m/25671
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO HD²" tvg-logo="http://i.imgur.com/btvewWR.png" group-title="CANAIS | ABERTOS",TV DIARIO HD²
+http://7go.xyz:8080/8581155638/use1556m/64621
+#EXTINF:-1 tvg-id="aande.br" tvg-name="TV DIARIO SD¹" tvg-logo="http://i.imgur.com/btvewWR.png" group-title="CANAIS | ABERTOS",TV DIARIO SD¹
+http://7go.xyz:8080/8581155638/use1556m/25672
+#EXTINF:-1 tvg-id="aande.br" tvg-name="TV ESCOLA FHD¹" tvg-logo="http://i.imgur.com/e0Nlw0X.png" group-title="CANAIS | ABERTOS",TV ESCOLA FHD¹
+http://7go.xyz:8080/8581155638/use1556m/64625
+#EXTINF:-1 tvg-id="tvescola.br" tvg-name="TV ESCOLA HD*" tvg-logo="http://i.imgur.com/e0Nlw0X.png" group-title="CANAIS | ABERTOS",TV ESCOLA HD*
+http://7go.xyz:8080/8581155638/use1556m/25667
+#EXTINF:-1 tvg-id="" tvg-name="TV ESCOLA SD²" tvg-logo="http://i.imgur.com/e0Nlw0X.png" group-title="CANAIS | ABERTOS",TV ESCOLA SD²
+http://7go.xyz:8080/8581155638/use1556m/114054
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="TV GAZETA FHD" tvg-logo="http://i.imgur.com/3CoFRrl.png" group-title="CANAIS | ABERTOS",TV GAZETA FHD
+http://7go.xyz:8080/8581155638/use1556m/25665
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="TV GAZETA HD" tvg-logo="http://i.imgur.com/3CoFRrl.png" group-title="CANAIS | ABERTOS",TV GAZETA HD
+http://7go.xyz:8080/8581155638/use1556m/20948
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="TV GAZETA HD*" tvg-logo="http://i.imgur.com/3CoFRrl.png" group-title="CANAIS | ABERTOS",TV GAZETA HD*
+http://7go.xyz:8080/8581155638/use1556m/18831
+#EXTINF:-1 tvg-id="" tvg-name="TV JUSTICA FHD¹" tvg-logo="http://i.imgur.com/j0gUl5s.png" group-title="CANAIS | ABERTOS",TV JUSTICA FHD¹
+http://7go.xyz:8080/8581155638/use1556m/114055
+#EXTINF:-1 tvg-id="" tvg-name="TV JUSTICA HD²" tvg-logo="http://i.imgur.com/j0gUl5s.png" group-title="CANAIS | ABERTOS",TV JUSTICA HD²
+http://7go.xyz:8080/8581155638/use1556m/114056
+#EXTINF:-1 tvg-id="" tvg-name="TV MON HD*" tvg-logo="http://i.imgur.com/LNGX3mn.png" group-title="CANAIS | ABERTOS",TV MON HD*
+http://7go.xyz:8080/8581155638/use1556m/55492
+#EXTINF:-1 tvg-id="" tvg-name="TV PAMPA FHD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Logotipo_da_TV_Pampa_%282021%29.png" group-title="CANAIS | ABERTOS",TV PAMPA FHD¹
+http://7go.xyz:8080/8581155638/use1556m/55493
+#EXTINF:-1 tvg-id="" tvg-name="TV PAMPA HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Logotipo_da_TV_Pampa_%282021%29.png" group-title="CANAIS | ABERTOS",TV PAMPA HD²
+http://7go.xyz:8080/8581155638/use1556m/115825
+#EXTINF:-1 tvg-id="tvsenado.br" tvg-name="TV SENADO FHD¹" tvg-logo="http://i.imgur.com/PU6FLdo.png" group-title="CANAIS | ABERTOS",TV SENADO FHD¹
+http://7go.xyz:8080/8581155638/use1556m/114066
+#EXTINF:-1 tvg-id="tvsenado.br" tvg-name="TV SENADO HD²" tvg-logo="http://i.imgur.com/PU6FLdo.png" group-title="CANAIS | ABERTOS",TV SENADO HD²
+http://7go.xyz:8080/8581155638/use1556m/114065
+#EXTINF:-1 tvg-id="tve.bahia.br" tvg-name="TVE BAHIA FHD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TVE_Bahia_logo_%282022%29.svg/1200px-TVE_Bahia_logo_%282022%29.svg.png" group-title="CANAIS | ABERTOS",TVE BAHIA FHD¹
+http://7go.xyz:8080/8581155638/use1556m/114048
+#EXTINF:-1 tvg-id="" tvg-name="TVE BRASIL FHD¹" tvg-logo="http://i.imgur.com/lBgOtCV.png" group-title="CANAIS | ABERTOS",TVE BRASIL FHD¹
+http://7go.xyz:8080/8581155638/use1556m/114047

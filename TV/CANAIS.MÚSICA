@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS FHD¹" tvg-logo="http://i.imgur.com/y6b7nzQ.png" group-title="CANAIS | MÚSICA",BIS FHD¹
+http://7go.xyz:8080/8581155638/use1556m/64727
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS FHD²" tvg-logo="http://i.imgur.com/y6b7nzQ.png" group-title="CANAIS | MÚSICA",BIS FHD²
+http://7go.xyz:8080/8581155638/use1556m/31490
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD¹" tvg-logo="http://i.imgur.com/y6b7nzQ.png" group-title="CANAIS | MÚSICA",BIS HD¹
+http://7go.xyz:8080/8581155638/use1556m/22466
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD²" tvg-logo="http://i.imgur.com/y6b7nzQ.png" group-title="CANAIS | MÚSICA",BIS HD²
+http://7go.xyz:8080/8581155638/use1556m/18807
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS SD¹" tvg-logo="http://i.imgur.com/y6b7nzQ.png" group-title="CANAIS | MÚSICA",BIS SD¹
+http://7go.xyz:8080/8581155638/use1556m/22301
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS SD²" tvg-logo="http://i.imgur.com/y6b7nzQ.png" group-title="CANAIS | MÚSICA",BIS SD²
+http://7go.xyz:8080/8581155638/use1556m/18725
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV FHD¹" tvg-logo="http://i.imgur.com/xeGkfqp.png." group-title="CANAIS | MÚSICA",MTV FHD¹
+http://7go.xyz:8080/8581155638/use1556m/22692
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV FHD²" tvg-logo="http://i.imgur.com/xeGkfqp.png." group-title="CANAIS | MÚSICA",MTV FHD²
+http://7go.xyz:8080/8581155638/use1556m/45218
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD¹" tvg-logo="http://i.imgur.com/xeGkfqp.png." group-title="CANAIS | MÚSICA",MTV HD¹
+http://7go.xyz:8080/8581155638/use1556m/22586
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD²" tvg-logo="http://i.imgur.com/xeGkfqp.png." group-title="CANAIS | MÚSICA",MTV HD²
+http://7go.xyz:8080/8581155638/use1556m/18848
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV SD¹" tvg-logo="http://i.imgur.com/xeGkfqp.png." group-title="CANAIS | MÚSICA",MTV SD¹
+http://7go.xyz:8080/8581155638/use1556m/64724
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV SD²" tvg-logo="http://i.imgur.com/xeGkfqp.png" group-title="CANAIS | MÚSICA",MTV SD²
+http://7go.xyz:8080/8581155638/use1556m/18752
+#EXTINF:-1 tvg-id="musicboxbrazil.br" tvg-name="MUSIC BOX BRASIL FHD¹" tvg-logo="http://i.imgur.com/54YN6ku.png" group-title="CANAIS | MÚSICA",MUSIC BOX BRASIL FHD¹
+http://7go.xyz:8080/8581155638/use1556m/45219
+#EXTINF:-1 tvg-id="musicboxbrazil.br" tvg-name="MUSIC BOX BRASIL HD¹" tvg-logo="http://i.imgur.com/54YN6ku.png" group-title="CANAIS | MÚSICA",MUSIC BOX BRASIL HD¹
+http://7go.xyz:8080/8581155638/use1556m/64723
+#EXTINF:-1 tvg-id="musicboxbrazil.br" tvg-name="MUSIC BOX BRASIL HD²" tvg-logo="http://i.imgur.com/54YN6ku.png" group-title="CANAIS | MÚSICA",MUSIC BOX BRASIL HD²
+http://7go.xyz:8080/8581155638/use1556m/31492
+#EXTINF:-1 tvg-id="musicboxbrazil.br" tvg-name="MUSIC BOX BRASIL SD¹" tvg-logo="http://i.imgur.com/54YN6ku.png" group-title="CANAIS | MÚSICA",MUSIC BOX BRASIL SD¹
+http://7go.xyz:8080/8581155638/use1556m/31491
+#EXTINF:-1 tvg-id="musicboxbrazil.br" tvg-name="MUSIC BOX BRAZIL SD²" tvg-logo="http://i.imgur.com/54YN6ku.png" group-title="CANAIS | MÚSICA",MUSIC BOX BRAZIL SD²
+http://7go.xyz:8080/8581155638/use1556m/22368
+#EXTINF:-1 tvg-id="aande.br" tvg-name="PRIME BOX BRASIL SD²" tvg-logo="http://i.imgur.com/rH1dALR.png" group-title="CANAIS | MÚSICA",PRIME BOX BRASIL SD²
+http://7go.xyz:8080/8581155638/use1556m/22376
+#EXTINF:-1 tvg-id="aande.br" tvg-name="RETRO MUSIC TV FHD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="CANAIS | MÚSICA",RETRO MUSIC TV FHD¹
+http://7go.xyz:8080/8581155638/use1556m/22385
+#EXTINF:-1 tvg-id="vh1.br" tvg-name="MTV 00s HD²" tvg-logo="https://i.imgur.com/048gBVZ.png" group-title="CANAIS | MÚSICA",MTV 00s HD²
+http://7go.xyz:8080/8581155638/use1556m/22629
+#EXTINF:-1 tvg-id="mtvlive.br" tvg-name="MTV LIVE HD²" tvg-logo="https://i.imgur.com/Y0CspjA.png" group-title="CANAIS | MÚSICA",MTV LIVE HD²
+http://7go.xyz:8080/8581155638/use1556m/317837
+#EXTINF:-1 tvg-id="mtv00s.br" tvg-name="MTV 00s HD¹" tvg-logo="https://i.imgur.com/048gBVZ.png" group-title="CANAIS | MÚSICA",MTV 00s HD¹
+http://7go.xyz:8080/8581155638/use1556m/317838
+#EXTINF:-1 tvg-id="mtvlivehd.pt" tvg-name="MTV Live FHD¹" tvg-logo="https://i.imgur.com/Y0CspjA.png" group-title="CANAIS | MÚSICA",MTV Live FHD¹
+http://7go.xyz:8080/8581155638/use1556m/317839
+#EXTINF:-1 tvg-id="mtvlivehd.pt" tvg-name="MTV Live HD¹" tvg-logo="https://i.imgur.com/Y0CspjA.png" group-title="CANAIS | MÚSICA",MTV Live HD¹
+http://7go.xyz:8080/8581155638/use1556m/317840
+#EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT HD²" tvg-logo="https://i.imgur.com/CFcgVLj.png" group-title="CANAIS | ESPORTES PAY PER VIEW",CANAL GOAT HD²
+http://7go.xyz:8080/8581155638/use1556m/318562
+#EXTINF:-1 tvg-id="" tvg-name="VEVO 2K" tvg-logo="" group-title="CANAIS | MÚSICA",VEVO 2K
+http://7go.xyz:8080/8581155638/use1556m/319700
+#EXTINF:-1 tvg-id="" tvg-name="VEVO 70's" tvg-logo="https://provider-static.plex.tv/epg/cms/production/12c5ecf8-6c6c-4d33-8f04-4bfebab38359/CTV_Channel_Art__Vevo_70s.png" group-title="CANAIS | MÚSICA",VEVO 70's
+http://7go.xyz:8080/8581155638/use1556m/319701
+#EXTINF:-1 tvg-id="" tvg-name="VEVO 80's" tvg-logo="" group-title="CANAIS | MÚSICA",VEVO 80's
+http://7go.xyz:8080/8581155638/use1556m/319702
+#EXTINF:-1 tvg-id="" tvg-name="VEVO 90's" tvg-logo="https://provider-static.plex.tv/epg/cms/production/68e4907c-6bd3-40dd-b2d9-7cbd75a5c38a/CTV_Channel_Art__Vevo_90s.png" group-title="CANAIS | MÚSICA",VEVO 90's
+http://7go.xyz:8080/8581155638/use1556m/319703
+#EXTINF:-1 tvg-id="" tvg-name="VEVO Country" tvg-logo="https://image.xumo.com/v1/channels/channel/99951127/600x600.webp?type=color_onBlack" group-title="CANAIS | MÚSICA",VEVO Country
+http://7go.xyz:8080/8581155638/use1556m/319704
+#EXTINF:-1 tvg-id="" tvg-name="VEVO Pop" tvg-logo="https://images.viaway.com/26295749_640.png" group-title="CANAIS | MÚSICA",VEVO Pop
+http://7go.xyz:8080/8581155638/use1556m/319705
+#EXTINF:-1 tvg-id="" tvg-name="VEVO R&B" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9fc84580-1a83-4462-982f-adb8118ff33c/CTV_Channel_Art__Vevo_R_B.png" group-title="CANAIS | MÚSICA",VEVO R&B
+http://7go.xyz:8080/8581155638/use1556m/319706
+#EXTINF:-1 tvg-id="" tvg-name="VEVO Reggeaton & Trap" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7536b705-db84-4d18-8054-cf23f3e1e526/CTV_Channel_Art__Vevo_Reggaeton___Trap.png" group-title="CANAIS | MÚSICA",VEVO Reggeaton & Trap
+http://7go.xyz:8080/8581155638/use1556m/319707

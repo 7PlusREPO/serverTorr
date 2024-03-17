@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="RECORD SP FHD MAX²" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD SP FHD MAX²
+http://7go.xyz:8080/8581155638/use1556m/164400
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD FHD¹" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD FHD¹
+http://7go.xyz:8080/8581155638/use1556m/28786
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD SD¹" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD SD¹
+http://7go.xyz:8080/8581155638/use1556m/18629
+#EXTINF:-1 tvg-id="aande.br" tvg-name="RECORD SP FHD²" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD SP FHD²
+http://7go.xyz:8080/8581155638/use1556m/70911
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD SP HD¹" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD SP HD¹
+http://7go.xyz:8080/8581155638/use1556m/7668
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD SP HD²" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD SP HD²
+http://7go.xyz:8080/8581155638/use1556m/18598
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD SP SD¹" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD SP SD¹
+http://7go.xyz:8080/8581155638/use1556m/7667
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD SP SD²" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD SP SD²
+http://7go.xyz:8080/8581155638/use1556m/115836
+#EXTINF:-1 tvg-id="aande.br" tvg-name="RECORD RJ HD¹" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD RJ HD¹
+http://7go.xyz:8080/8581155638/use1556m/18594
+#EXTINF:-1 tvg-id="aande.br" tvg-name="RECORD RJ HD²" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD RJ HD²
+http://7go.xyz:8080/8581155638/use1556m/22601
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD BAHIA HD¹" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD BAHIA HD¹
+http://7go.xyz:8080/8581155638/use1556m/28783
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD BELEM HD¹" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD BELEM HD¹
+http://7go.xyz:8080/8581155638/use1556m/28784
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD BELEM HD¹" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD BELEM HD¹
+http://7go.xyz:8080/8581155638/use1556m/18599
+#EXTINF:-1 tvg-id="aande.br" tvg-name="RECORD BRASILIA DF HD²" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD BRASILIA DF HD²
+http://7go.xyz:8080/8581155638/use1556m/22377
+#EXTINF:-1 tvg-id="aande.br" tvg-name="RECORD BRASILIA DF HD²" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD BRASILIA DF HD²
+http://7go.xyz:8080/8581155638/use1556m/22596
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD CABRALIA ITABUNA BAHIA HD²" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD CABRALIA ITABUNA BAHIA HD²
+http://7go.xyz:8080/8581155638/use1556m/22604
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD CAMPINAS HD²" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD CAMPINAS HD²
+http://7go.xyz:8080/8581155638/use1556m/22597
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD ES HD¹" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD ES HD¹
+http://7go.xyz:8080/8581155638/use1556m/63227
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD GOIAS FHD¹" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD GOIAS FHD¹
+http://7go.xyz:8080/8581155638/use1556m/28787
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD GOIAS HD¹" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD GOIAS HD¹
+http://7go.xyz:8080/8581155638/use1556m/18601
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD GOIAS HD²" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD GOIAS HD²
+http://7go.xyz:8080/8581155638/use1556m/70921
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD ILHA HD²" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD ILHA HD²
+http://7go.xyz:8080/8581155638/use1556m/70918
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD ITAPOAN BAHIA HD¹" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD ITAPOAN BAHIA HD¹
+http://7go.xyz:8080/8581155638/use1556m/52892
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD ITAPOAN BAHIA HD²" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD ITAPOAN BAHIA HD²
+http://7go.xyz:8080/8581155638/use1556m/18627
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD ITAPOAN BAHIA SD²" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD ITAPOAN BAHIA SD²
+http://7go.xyz:8080/8581155638/use1556m/64626
+#EXTINF:-1 tvg-id="aande.br" tvg-name="RECORD ITAPUAN NORDESTE HD¹" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD ITAPUAN NORDESTE HD¹
+http://7go.xyz:8080/8581155638/use1556m/22600
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD LITORAL SANTOS HD²" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD LITORAL SANTOS HD²
+http://7go.xyz:8080/8581155638/use1556m/70915
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD MINAS FHD¹" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD MINAS FHD¹
+http://7go.xyz:8080/8581155638/use1556m/18591
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD MINAS HD¹" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD MINAS HD¹
+http://7go.xyz:8080/8581155638/use1556m/18603
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD MINAS HD²" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD MINAS HD²
+http://7go.xyz:8080/8581155638/use1556m/22605
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD MANAUS HD¹" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD MANAUS HD¹
+http://7go.xyz:8080/8581155638/use1556m/18589
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD MANAUS HD²" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD MANAUS HD²
+http://7go.xyz:8080/8581155638/use1556m/70919
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD PARANAIBA UBERLANDIA-MG HD²" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD PARANAIBA UBERLANDIA-MG HD²
+http://7go.xyz:8080/8581155638/use1556m/70912
+#EXTINF:-1 tvg-id="" tvg-name="RECORD PORTUGAL HD" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD PORTUGAL HD
+http://7go.xyz:8080/8581155638/use1556m/63652
+#EXTINF:-1 tvg-id="" tvg-name="RECORD PORTUGAL HD*" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD PORTUGAL HD*
+http://7go.xyz:8080/8581155638/use1556m/63651
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD RS FHD²" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD RS FHD²
+http://7go.xyz:8080/8581155638/use1556m/70920
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD RS HD¹" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD RS HD¹
+http://7go.xyz:8080/8581155638/use1556m/28782
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD RS HD²" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD RS HD²
+http://7go.xyz:8080/8581155638/use1556m/22602
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD RIC CURITIBA-PR HD²" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD RIC CURITIBA-PR HD²
+http://7go.xyz:8080/8581155638/use1556m/28785
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD SANTA CATARINA HD²" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD SANTA CATARINA HD²
+http://7go.xyz:8080/8581155638/use1556m/70917
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD SAO JOSE RIO PRETO HD²" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD SAO JOSE RIO PRETO HD²
+http://7go.xyz:8080/8581155638/use1556m/70913
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD SERGIPE ATALAIA HD²" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD SERGIPE ATALAIA HD²
+http://7go.xyz:8080/8581155638/use1556m/70914
+#EXTINF:-1 tvg-id="eptv.campinas.br" tvg-name="RECORD THATHI CAMPINAS HD²" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD THATHI CAMPINAS HD²
+http://7go.xyz:8080/8581155638/use1556m/70916
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="RECORD CAMPINAS SD²" tvg-logo="http://i.imgur.com/KU57iqD.png" group-title="CANAIS | RECORD",RECORD CAMPINAS SD²
+http://7go.xyz:8080/8581155638/use1556m/301257

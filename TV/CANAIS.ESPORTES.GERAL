@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV FHD¹" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png" group-title="CANAIS | ESPORTES GERAL",FISH TV FHD¹
+http://7go.xyz:8080/8581155638/use1556m/45223
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV HD¹" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png" group-title="CANAIS | ESPORTES GERAL",FISH TV HD¹
+http://7go.xyz:8080/8581155638/use1556m/18665
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV HD*" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png" group-title="CANAIS | ESPORTES GERAL",FISH TV HD*
+http://7go.xyz:8080/8581155638/use1556m/22532
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV SD¹" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png" group-title="CANAIS | ESPORTES GERAL",FISH TV SD¹
+http://7go.xyz:8080/8581155638/use1556m/18677
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV SD²" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png" group-title="CANAIS | ESPORTES GERAL",FISH TV SD²
+http://7go.xyz:8080/8581155638/use1556m/22337
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD¹" tvg-logo="http://i.imgur.com/wJZa0AW.png" group-title="CANAIS | ESPORTES GERAL",BAND SPORTS FHD¹
+http://7go.xyz:8080/8581155638/use1556m/18637
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD²" tvg-logo="http://i.imgur.com/wJZa0AW.png" group-title="CANAIS | ESPORTES GERAL",BAND SPORTS FHD²
+http://7go.xyz:8080/8581155638/use1556m/64654
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD¹" tvg-logo="http://i.imgur.com/wJZa0AW.png" group-title="CANAIS | ESPORTES GERAL",BAND SPORTS HD¹
+http://7go.xyz:8080/8581155638/use1556m/18623
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SPORTS HD²" tvg-logo="http://i.imgur.com/wJZa0AW.png" group-title="CANAIS | ESPORTES GERAL",BAND SPORTS HD²
+http://7go.xyz:8080/8581155638/use1556m/22465
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS SD¹" tvg-logo="http://i.imgur.com/wJZa0AW.png" group-title="CANAIS | ESPORTES GERAL",BAND SPORTS SD¹
+http://7go.xyz:8080/8581155638/use1556m/18640
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS SD²" tvg-logo="http://i.imgur.com/wJZa0AW.png" group-title="CANAIS | ESPORTES GERAL",BAND SPORTS SD²
+http://7go.xyz:8080/8581155638/use1556m/22410
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF FHD MAX²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="CANAIS | ESPORTES GERAL",OFF FHD MAX²
+http://7go.xyz:8080/8581155638/use1556m/54339
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF FHD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="CANAIS | ESPORTES GERAL",OFF FHD¹
+http://7go.xyz:8080/8581155638/use1556m/18946
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF FHD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="CANAIS | ESPORTES GERAL",OFF FHD²
+http://7go.xyz:8080/8581155638/use1556m/64655
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="CANAIS | ESPORTES GERAL",OFF HD²
+http://7go.xyz:8080/8581155638/use1556m/22594
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF SD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="CANAIS | ESPORTES GERAL",OFF SD²
+http://7go.xyz:8080/8581155638/use1556m/22373
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="CANAIS | ESPORTES GERAL",OFF HD¹
+http://7go.xyz:8080/8581155638/use1556m/116717
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF SD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="CANAIS | ESPORTES GERAL",OFF SD¹
+http://7go.xyz:8080/8581155638/use1556m/116718
+#EXTINF:-1 tvg-id="" tvg-name="FIGHT NETWORK HD²" tvg-logo="http://i.imgur.com/jscGCSA.png" group-title="CANAIS | ESPORTES GERAL",FIGHT NETWORK HD²
+http://7go.xyz:8080/8581155638/use1556m/201863
+#EXTINF:-1 tvg-id="" tvg-name="FIGHT BOX HD²" tvg-logo="http://i.imgur.com/MKTZDX6.png" group-title="CANAIS | ESPORTES GERAL",FIGHT BOX HD²
+http://7go.xyz:8080/8581155638/use1556m/201864
+#EXTINF:-1 tvg-id="" tvg-name="WWE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUp4s7ApnuZ3bVzek4v4CQXuVBdP-CeSa34lF1RiN3_xrlb87-2PZDxWPN1hizT0K4BO4&usqp=CAU" group-title="CANAIS | ESPORTES GERAL",WWE HD
+http://7go.xyz:8080/8581155638/use1556m/188345
+#EXTINF:-1 tvg-id="" tvg-name=" WWE PPV" tvg-logo="https://www.planetawrestling.com/wp-content/uploads/Desaparecen-los-PPV-de-WWE.jpg" group-title="CANAIS | ESPORTES GERAL", WWE PPV
+http://7go.xyz:8080/8581155638/use1556m/188348

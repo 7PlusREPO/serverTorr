@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION FHD¹" tvg-logo="https://i.pinimg.com/originals/69/3f/e1/693fe1b868a36424fa2211fbd321df9f.png" group-title="CANAIS | TELECINE",TELECINE ACTION FHD¹
+http://7go.xyz:8080/8581155638/use1556m/18964
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION FHD²" tvg-logo="https://i.pinimg.com/originals/69/3f/e1/693fe1b868a36424fa2211fbd321df9f.png" group-title="CANAIS | TELECINE",TELECINE ACTION FHD²
+http://7go.xyz:8080/8581155638/use1556m/22711
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION HD¹" tvg-logo="https://i.pinimg.com/originals/69/3f/e1/693fe1b868a36424fa2211fbd321df9f.png" group-title="CANAIS | TELECINE",TELECINE ACTION HD¹
+http://7go.xyz:8080/8581155638/use1556m/18868
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION HD²" tvg-logo="https://i.pinimg.com/originals/69/3f/e1/693fe1b868a36424fa2211fbd321df9f.png" group-title="CANAIS | TELECINE",TELECINE ACTION HD²
+http://7go.xyz:8080/8581155638/use1556m/22617
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION SD¹" tvg-logo="https://i.pinimg.com/originals/69/3f/e1/693fe1b868a36424fa2211fbd321df9f.png" group-title="CANAIS | TELECINE",TELECINE ACTION SD¹
+http://7go.xyz:8080/8581155638/use1556m/18774
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION SD²" tvg-logo="https://i.pinimg.com/originals/69/3f/e1/693fe1b868a36424fa2211fbd321df9f.png" group-title="CANAIS | TELECINE",TELECINE ACTION SD²
+http://7go.xyz:8080/8581155638/use1556m/22397
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT FHD¹" tvg-logo="https://i.pinimg.com/originals/36/fd/12/36fd12ab7fd338d324758457991ff53d.png" group-title="CANAIS | TELECINE",TELECINE CULT FHD¹
+http://7go.xyz:8080/8581155638/use1556m/18965
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT FHD²" tvg-logo="https://i.pinimg.com/originals/36/fd/12/36fd12ab7fd338d324758457991ff53d.png" group-title="CANAIS | TELECINE",TELECINE CULT FHD²
+http://7go.xyz:8080/8581155638/use1556m/22712
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT HD¹" tvg-logo="https://i.pinimg.com/originals/36/fd/12/36fd12ab7fd338d324758457991ff53d.png" group-title="CANAIS | TELECINE",TELECINE CULT HD¹
+http://7go.xyz:8080/8581155638/use1556m/18869
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT HD²" tvg-logo="https://i.pinimg.com/originals/36/fd/12/36fd12ab7fd338d324758457991ff53d.png" group-title="CANAIS | TELECINE",TELECINE CULT HD²
+http://7go.xyz:8080/8581155638/use1556m/22618
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT SD¹" tvg-logo="https://i.pinimg.com/originals/36/fd/12/36fd12ab7fd338d324758457991ff53d.png" group-title="CANAIS | TELECINE",TELECINE CULT SD¹
+http://7go.xyz:8080/8581155638/use1556m/18775
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT SD²" tvg-logo="https://i.pinimg.com/originals/36/fd/12/36fd12ab7fd338d324758457991ff53d.png" group-title="CANAIS | TELECINE",TELECINE CULT SD²
+http://7go.xyz:8080/8581155638/use1556m/22398
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN FHD MAX¹" tvg-logo="https://i.pinimg.com/originals/84/5e/7c/845e7c385452855b3b75dce2d3a774dd.png" group-title="CANAIS | TELECINE",TELECINE FUN FHD MAX¹
+http://7go.xyz:8080/8581155638/use1556m/18966
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN FHD²" tvg-logo="https://i.pinimg.com/originals/84/5e/7c/845e7c385452855b3b75dce2d3a774dd.png" group-title="CANAIS | TELECINE",TELECINE FUN FHD²
+http://7go.xyz:8080/8581155638/use1556m/22713
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN HD¹" tvg-logo="https://i.pinimg.com/originals/84/5e/7c/845e7c385452855b3b75dce2d3a774dd.png" group-title="CANAIS | TELECINE",TELECINE FUN HD¹
+http://7go.xyz:8080/8581155638/use1556m/18870
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN HD²" tvg-logo="https://i.pinimg.com/originals/84/5e/7c/845e7c385452855b3b75dce2d3a774dd.png" group-title="CANAIS | TELECINE",TELECINE FUN HD²
+http://7go.xyz:8080/8581155638/use1556m/22619
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN SD¹" tvg-logo="https://i.pinimg.com/originals/84/5e/7c/845e7c385452855b3b75dce2d3a774dd.png" group-title="CANAIS | TELECINE",TELECINE FUN SD¹
+http://7go.xyz:8080/8581155638/use1556m/22399
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN SD²" tvg-logo="https://i.pinimg.com/originals/84/5e/7c/845e7c385452855b3b75dce2d3a774dd.png" group-title="CANAIS | TELECINE",TELECINE FUN SD²
+http://7go.xyz:8080/8581155638/use1556m/18776
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA FHD¹" tvg-logo="https://i.pinimg.com/originals/d1/f0/ff/d1f0ff312a18b9c136b31695c76d27bc.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA FHD¹
+http://7go.xyz:8080/8581155638/use1556m/18967
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA FHD²" tvg-logo="https://i.pinimg.com/originals/d1/f0/ff/d1f0ff312a18b9c136b31695c76d27bc.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA FHD²
+http://7go.xyz:8080/8581155638/use1556m/22714
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA HD¹" tvg-logo="https://i.pinimg.com/originals/d1/f0/ff/d1f0ff312a18b9c136b31695c76d27bc.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA HD¹
+http://7go.xyz:8080/8581155638/use1556m/18871
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA HD²" tvg-logo="https://i.pinimg.com/originals/d1/f0/ff/d1f0ff312a18b9c136b31695c76d27bc.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA HD²
+http://7go.xyz:8080/8581155638/use1556m/22620
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA SD¹" tvg-logo="https://i.pinimg.com/originals/d1/f0/ff/d1f0ff312a18b9c136b31695c76d27bc.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA SD¹
+http://7go.xyz:8080/8581155638/use1556m/18777
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA SD²" tvg-logo="https://i.pinimg.com/originals/d1/f0/ff/d1f0ff312a18b9c136b31695c76d27bc.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA SD²
+http://7go.xyz:8080/8581155638/use1556m/22400
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM FHD¹" tvg-logo="https://i.pinimg.com/originals/5d/76/0a/5d760a8c9769fbcf090c2b259323d6b9.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM FHD¹
+http://7go.xyz:8080/8581155638/use1556m/18968
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM FHD²" tvg-logo="https://i.pinimg.com/originals/5d/76/0a/5d760a8c9769fbcf090c2b259323d6b9.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM FHD²
+http://7go.xyz:8080/8581155638/use1556m/22715
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM HD¹" tvg-logo="https://i.pinimg.com/originals/5d/76/0a/5d760a8c9769fbcf090c2b259323d6b9.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM HD¹
+http://7go.xyz:8080/8581155638/use1556m/18872
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM HD²" tvg-logo="https://i.pinimg.com/originals/5d/76/0a/5d760a8c9769fbcf090c2b259323d6b9.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM HD²
+http://7go.xyz:8080/8581155638/use1556m/22621
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM SD¹" tvg-logo="https://i.pinimg.com/originals/5d/76/0a/5d760a8c9769fbcf090c2b259323d6b9.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM SD¹
+http://7go.xyz:8080/8581155638/use1556m/18778
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM SD²" tvg-logo="https://i.pinimg.com/originals/5d/76/0a/5d760a8c9769fbcf090c2b259323d6b9.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM SD²
+http://7go.xyz:8080/8581155638/use1556m/22401
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH FHD¹" tvg-logo="https://i.pinimg.com/originals/18/5c/db/185cdbe8ac20035cdf8c0fd2901bbb36.png" group-title="CANAIS | TELECINE",TELECINE TOUCH FHD¹
+http://7go.xyz:8080/8581155638/use1556m/18969
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH FHD²" tvg-logo="https://i.pinimg.com/originals/18/5c/db/185cdbe8ac20035cdf8c0fd2901bbb36.png" group-title="CANAIS | TELECINE",TELECINE TOUCH FHD²
+http://7go.xyz:8080/8581155638/use1556m/22716
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH HD¹" tvg-logo="https://i.pinimg.com/originals/18/5c/db/185cdbe8ac20035cdf8c0fd2901bbb36.png" group-title="CANAIS | TELECINE",TELECINE TOUCH HD¹
+http://7go.xyz:8080/8581155638/use1556m/18873
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH HD²" tvg-logo="https://i.pinimg.com/originals/18/5c/db/185cdbe8ac20035cdf8c0fd2901bbb36.png" group-title="CANAIS | TELECINE",TELECINE TOUCH HD²
+http://7go.xyz:8080/8581155638/use1556m/22622
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH SD¹" tvg-logo="https://i.pinimg.com/originals/18/5c/db/185cdbe8ac20035cdf8c0fd2901bbb36.png" group-title="CANAIS | TELECINE",TELECINE TOUCH SD¹
+http://7go.xyz:8080/8581155638/use1556m/18779
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH SD²" tvg-logo="https://i.pinimg.com/originals/18/5c/db/185cdbe8ac20035cdf8c0fd2901bbb36.png" group-title="CANAIS | TELECINE",TELECINE TOUCH SD²
+http://7go.xyz:8080/8581155638/use1556m/22402

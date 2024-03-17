@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 FHD MAX²" tvg-logo="http://i.imgur.com/uUfDtus.png" group-title="CANAIS | FOX SPORTS",FOX SPORTS 2 FHD MAX²
+http://7go.xyz:8080/8581155638/use1556m/65735
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 FHD¹" tvg-logo="http://i.imgur.com/uUfDtus.png" group-title="CANAIS | FOX SPORTS",FOX SPORTS 2 FHD¹
+http://7go.xyz:8080/8581155638/use1556m/18655
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 FHD²" tvg-logo="http://i.imgur.com/uUfDtus.png" group-title="CANAIS | FOX SPORTS",FOX SPORTS 2 FHD²
+http://7go.xyz:8080/8581155638/use1556m/22674
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 HD¹" tvg-logo="http://i.imgur.com/uUfDtus.png" group-title="CANAIS | FOX SPORTS",FOX SPORTS 2 HD¹
+http://7go.xyz:8080/8581155638/use1556m/18666
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 HD²" tvg-logo="http://i.imgur.com/uUfDtus.png" group-title="CANAIS | FOX SPORTS",FOX SPORTS 2 HD²
+http://7go.xyz:8080/8581155638/use1556m/22538
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 SD¹" tvg-logo="http://i.imgur.com/uUfDtus.png" group-title="CANAIS | FOX SPORTS",FOX SPORTS 2 SD¹
+http://7go.xyz:8080/8581155638/use1556m/18671
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 SD²" tvg-logo="http://i.imgur.com/uUfDtus.png" group-title="CANAIS | FOX SPORTS",FOX SPORTS 2 SD²
+http://7go.xyz:8080/8581155638/use1556m/22343

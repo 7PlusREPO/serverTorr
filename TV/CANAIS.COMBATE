@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS FHD¹" tvg-logo="http://i.imgur.com/rrEKbyr.png" group-title="CANAIS | COMBATE",UFC FIGHT PASS FHD¹
+http://7go.xyz:8080/8581155638/use1556m/282008
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS HD²" tvg-logo="http://i.imgur.com/rrEKbyr.png" group-title="CANAIS | COMBATE",UFC FIGHT PASS HD²
+http://7go.xyz:8080/8581155638/use1556m/293070
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT 01 HD¹" tvg-logo="http://i.imgur.com/rrEKbyr.png" group-title="CANAIS | COMBATE",UFC FIGHT 01 HD¹
+http://7go.xyz:8080/8581155638/use1556m/300039
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT 02 HD¹" tvg-logo="http://i.imgur.com/rrEKbyr.png" group-title="CANAIS | COMBATE",UFC FIGHT 02 HD¹
+http://7go.xyz:8080/8581155638/use1556m/300040
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT 03 HD¹" tvg-logo="http://i.imgur.com/rrEKbyr.png" group-title="CANAIS | COMBATE",UFC FIGHT 03 HD¹
+http://7go.xyz:8080/8581155638/use1556m/300041
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD MAX²" tvg-logo="http://i.imgur.com/WPmcn2I.png" group-title="CANAIS | COMBATE",COMBATE FHD MAX²
+http://7go.xyz:8080/8581155638/use1556m/72974
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD MAX ᶜᴰᴺ²" tvg-logo="http://i.imgur.com/WPmcn2I.png" group-title="CANAIS | COMBATE",COMBATE FHD MAX ᶜᴰᴺ²
+http://7go.xyz:8080/8581155638/use1556m/18658
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD¹" tvg-logo="http://i.imgur.com/WPmcn2I.png" group-title="CANAIS | COMBATE",COMBATE FHD¹
+http://7go.xyz:8080/8581155638/use1556m/18657
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD²" tvg-logo="http://i.imgur.com/WPmcn2I.png" group-title="CANAIS | COMBATE",COMBATE FHD²
+http://7go.xyz:8080/8581155638/use1556m/22656
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD¹" tvg-logo="http://i.imgur.com/WPmcn2I.png" group-title="CANAIS | COMBATE",COMBATE HD¹
+http://7go.xyz:8080/8581155638/use1556m/18685
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD²" tvg-logo="http://i.imgur.com/WPmcn2I.png" group-title="CANAIS | COMBATE",COMBATE HD²
+http://7go.xyz:8080/8581155638/use1556m/22492
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD¹" tvg-logo="http://i.imgur.com/WPmcn2I.png" group-title="CANAIS | COMBATE",COMBATE SD¹
+http://7go.xyz:8080/8581155638/use1556m/18684
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD²" tvg-logo="http://i.imgur.com/WPmcn2I.png" group-title="CANAIS | COMBATE",COMBATE SD²
+http://7go.xyz:8080/8581155638/use1556m/22309
