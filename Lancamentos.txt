@@ -1,5 +1,16 @@
 <channels>
 
+
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Murder Mubarak (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/pmmwZnr72wirrwXXFoTu5bmAm4N.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mw6ucZfre773Fb1BSSsvsvV8a9m.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR] Ao investigar o assassinato de um professor de ginástica em um clube de elite em Nova Deli, um detetive descobre os segredos sórdidos dos sócios ricaços.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.1051023.Murder-Mubarak.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] Irish Wish (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/v4Bb70dpIIQoEnZAHnm3nzCPauU.jpg</thumbnail>
