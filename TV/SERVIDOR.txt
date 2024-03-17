@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="EPG.br" tvg-name="AMC FHD³" tvg-logo="http://dns.ulttv.xyz/1/amc.png" group-title="FILMES & SÉRIES",AMC FHD³
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@PobreTV[/COLOR]&url=http://ncw.one:80/live/h8q2223vyl/jj224ff1zl/234049.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD³" tvg-logo="http://dns.ulttv.xyz/1/ae.png" group-title="FILMES & SÉRIES",A&E HD³
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@PobreTV[/COLOR]&url=http://ncw.one:80/live/h8q2223vyl/jj224ff1zl/234037.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD³" tvg-logo="http://dns.ulttv.xyz/1/ae.png" group-title="FILMES & SÉRIES",A&E SD³
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@PobreTV[/COLOR]&url=http://ncw.one:80/live/h8q2223vyl/jj224ff1zl/234038.m3u8
