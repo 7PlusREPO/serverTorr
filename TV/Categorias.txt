@@ -1,43 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-
 <channels>
-
-
-
-
 	
 <channel>
-        <name>[B][COLOR lime]CANAIS A FAZENDA - 15 [COLOR white] (F4mTester) [/COLOR][/B]</name>
+        <name>[B][COLOR lime]CANAIS.ABERTOS [COLOR white] (F4mTester) [/COLOR][/B]</name>
         <thumbnail>http://wareztuga.polybotes.feralhosting.com/TV.Digital/Logo/TvLive.BR.png</thumbnail>
         <fanart>http://wareztuga.polybotes.feralhosting.com/TV.Digital/Logo/Render.png</fanart>
 		<info>
 	
 		</info>
-		<externallink>http://wareztuga.polybotes.feralhosting.com/TV.Digital/CANAIS.A-FAZENDA-15.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/TV/CANAIS.ABERTOS</externallink>
     </channel>
 ------------------------------------------------------------------------------------------------	
 <channel>
-        <name>[B][COLOR lime]CANAIS ABERTOS [COLOR white] (F4mTester) [/COLOR][/B]</name>
+        <name>[B][COLOR lime]CANAIS BAND [COLOR white] (F4mTester) [/COLOR][/B]</name>
         <thumbnail>http://wareztuga.polybotes.feralhosting.com/TV.Digital/Logo/TvLive.BR.png</thumbnail>
         <fanart>http://wareztuga.polybotes.feralhosting.com/TV.Digital/Logo/Render.png</fanart>
 		<info>
 	
 		</info>
-		<externallink>http://wareztuga.polybotes.feralhosting.com/TV.Digital/CANAIS.ABERTOS.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/TV/CANAIS.BAND</externallink>
     </channel>
 ------------------------------------------------------------------------------------------------
 <channel>
-        <name>[B][COLOR lime]CANAIS RECORD [COLOR white] (F4mTester) [/COLOR][/B]</name>
+        <name>[B][COLOR lime]CANAIS COMBATE [COLOR white] (F4mTester) [/COLOR][/B]</name>
         <thumbnail>http://wareztuga.polybotes.feralhosting.com/TV.Digital/Logo/TvLive.BR.png</thumbnail>
         <fanart>http://wareztuga.polybotes.feralhosting.com/TV.Digital/Logo/Render.png</fanart>
 		<info>
 	
 		</info>
-		<externallink>http://wareztuga.polybotes.feralhosting.com/TV.Digital/CANAIS.RECORD.m3u</externallink>
+		<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/TV/CANAIS.COMBATE</externallink>
     </channel>
 ------------------------------------------------------------------------------------------------	
-
+<channel>
+        <name>[B][COLOR lime]CANAIS DISCOVERY [COLOR white] (F4mTester) [/COLOR][/B]</name>
+        <thumbnail>http://wareztuga.polybotes.feralhosting.com/TV.Digital/Logo/TvLive.BR.png</thumbnail>
+        <fanart>http://wareztuga.polybotes.feralhosting.com/TV.Digital/Logo/Render.png</fanart>
+		<info>
+	
+		</info>
+		<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/TV/CANAIS.DISCOVERY</externallink>
+    </channel>
+------------------------------------------------------------------------------------------------
 
 	
 </channels>		
