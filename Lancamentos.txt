@@ -1,6 +1,15 @@
 <channels>
 
-
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Irish Wish (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/v4Bb70dpIIQoEnZAHnm3nzCPauU.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qz2QzkYzesbbL94rdUpZrFPhlRe.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]O homem dos sonhos de Maddie está prestes a casar com a sua melhor amiga, mas o seu destino muda quando pede um desejo numa pedra antiga na Irlanda: o amor verdadeiro.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.1019420-irish-wish.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] Madame Web (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/zWEm5oy2tE9ku1KSNM089FmZJ2p.jpg</thumbnail>
