@@ -1,6 +1,15 @@
 <channels>
 
-
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] 24 Hours with Gaspar (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/wpEbqJ2UYMx1dCgQW6kRgNAlmo4.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fwkaNqmALBmzkBxrq2IrrNe230O.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR] Um detetive particular que só tem mais 24 horas de vida tenta solucionar o desaparecimento de sua amiga de infância.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.1013240-24-jam-bersama-gaspar.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] Murder Mubarak (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/pmmwZnr72wirrwXXFoTu5bmAm4N.jpg</thumbnail>
