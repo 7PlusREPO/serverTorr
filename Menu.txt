@@ -7,7 +7,7 @@
 <info>
 
 </info>
-<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/Lancamentos.txt</externallink>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/TV/SERVIDOR.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
 <channel>
