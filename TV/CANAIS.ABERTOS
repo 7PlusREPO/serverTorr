@@ -1,24 +1,25 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI FHD³" tvg-logo="http://dns.ulttv.xyz/1/canaldoboi.png" group-title="ABERTOS",CANAL DO BOI FHD³
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@PobreTV[/COLOR]&url=http://ncw.one:80http://ncw.one:80/live/h8q2223vyl/jj224ff1zl/234107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVE BRASIL SD³" tvg-logo="" group-title="ABERTOS",TVE BRASIL SD³
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@PobreTV[/COLOR]&url=http://ncw.one:80/live/h8q2223vyl/jj224ff1zl/234107.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI HD³" tvg-logo="http://dns.ulttv.xyz/1/canaldoboi.png" group-title="ABERTOS",CANAL DO BOI HD³
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@PobreTV[/COLOR]&url=http://ncw.one:80http://ncw.one:80/live/h8q2223vyl/jj224ff1zl/234108.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@PobreTV[/COLOR]&url=http://ncw.one:80/live/h8q2223vyl/jj224ff1zl/234108.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI SD³" tvg-logo="http://dns.ulttv.xyz/1/canaldoboi.png" group-title="ABERTOS",CANAL DO BOI SD³
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@PobreTV[/COLOR]&url=http://ncw.one:80http://ncw.one:80/live/h8q2223vyl/jj224ff1zl/234109.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@PobreTV[/COLOR]&url=http://ncw.one:80/live/h8q2223vyl/jj224ff1zl/234109.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL³" tvg-logo="http://dns.ulttv.xyz/1/canalrural.png" group-title="ABERTOS",CANAL RURAL³
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@PobreTV[/COLOR]&url=http://ncw.one:80http://ncw.one:80/live/h8q2223vyl/jj224ff1zl/234111.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@PobreTV[/COLOR]&url=http://ncw.one:80/live/h8q2223vyl/jj224ff1zl/234111.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL³" tvg-logo="http://dns.ulttv.xyz/1/canalrural.png" group-title="ABERTOS",CANAL RURAL³
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@PobreTV[/COLOR]&url=http://ncw.one:80http://ncw.one:80/live/h8q2223vyl/jj224ff1zl/234110.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@PobreTV[/COLOR]&url=http://ncw.one:80/live/h8q2223vyl/jj224ff1zl/234110.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA HD³" tvg-logo="" group-title="ABERTOS",CANÇÃO NOVA HD³
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@PobreTV[/COLOR]&url=http://ncw.one:80http://ncw.one:80/live/h8q2223vyl/jj224ff1zl/234115.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@PobreTV[/COLOR]&url=http://ncw.one:80/live/h8q2223vyl/jj224ff1zl/234115.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNT SD³" tvg-logo="" group-title="ABERTOS",CNT SD³
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@PobreTV[/COLOR]&url=http://ncw.one:80http://ncw.one:80/live/h8q2223vyl/jj224ff1zl/234146.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@PobreTV[/COLOR]&url=http://ncw.one:80/live/h8q2223vyl/jj224ff1zl/234146.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FUTURA FHD³" tvg-logo="" group-title="ABERTOS",FUTURA FHD³
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@PobreTV[/COLOR]&url=http://ncw.one:80http://ncw.one:80/live/h8q2223vyl/jj224ff1zl/234216.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@PobreTV[/COLOR]&url=http://ncw.one:80/live/h8q2223vyl/jj224ff1zl/234216.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FUTURA HD³" tvg-logo="" group-title="ABERTOS",FUTURA HD³
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@PobreTV[/COLOR]&url=http://ncw.one:80http://ncw.one:80/live/h8q2223vyl/jj224ff1zl/234217.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@PobreTV[/COLOR]&url=http://ncw.one:80/live/h8q2223vyl/jj224ff1zl/234217.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FUTURA SD³" tvg-logo="" group-title="ABERTOS",FUTURA SD³
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@PobreTV[/COLOR]&url=http://ncw.one:80http://ncw.one:80/live/h8q2223vyl/jj224ff1zl/234218.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@PobreTV[/COLOR]&url=http://ncw.one:80/live/h8q2223vyl/jj224ff1zl/234218.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="REDE TV PAMPA PORTO ALEGRE³" tvg-logo="" group-title="ABERTOS",REDE TV PAMPA PORTO ALEGRE³
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@PobreTV[/COLOR]&url=http://ncw.one:80/live/h8q2223vyl/jj224ff1zl/234633.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="REDE TV SP³" tvg-logo="" group-title="ABERTOS",REDE TV SP³
@@ -35,7 +36,5 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@Po
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@PobreTV[/COLOR]&url=http://ncw.one:80/live/h8q2223vyl/jj224ff1zl/234735.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV CULTURA SD³" tvg-logo="" group-title="ABERTOS",TV CULTURA SD³
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@PobreTV[/COLOR]&url=http://ncw.one:80/live/h8q2223vyl/jj224ff1zl/234736.m3u8
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="TVE BRASIL SD³" tvg-logo="" group-title="ABERTOS",TVE BRASIL SD³
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@PobreTV[/COLOR]&url=http://ncw.one:80/live/h8q2223vyl/jj224ff1zl/234751.m3u8
