@@ -3,7 +3,7 @@
 <channels>
 	
 <channel>
-        <name>[B][COLOR lime]CANAIS.ABERTOS [COLOR white] (F4mTester) [/COLOR][/B]</name>
+        <name>[B][COLOR lime]CANAIS ABERTOS [COLOR white] (F4mTester) [/COLOR][/B]</name>
         <thumbnail>http://wareztuga.polybotes.feralhosting.com/TV.Digital/Logo/TvLive.BR.png</thumbnail>
         <fanart>http://wareztuga.polybotes.feralhosting.com/TV.Digital/Logo/Render.png</fanart>
 		<info>
