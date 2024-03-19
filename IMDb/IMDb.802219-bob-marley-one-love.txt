@@ -6,7 +6,7 @@
 <fanart>https://image.tmdb.org/t/p/original/edJ2XEsDr03pAHbseJ4vDVgtd7k.jpg</fanart>
 <info>
 [COLOR lime]Gênero:[/COLOR] Biografia | Drama | Musical
-[COLOR lime]Duração:[/COLOR] 50 Min.
+[COLOR lime]Duração:[/COLOR] 1 H 47 Min.
 [COLOR lime]Lançamento:[/COLOR] 2024
 [COLOR lime]Qualidade:[/COLOR] WEB-DL
 [COLOR lime]Formato:[/COLOR] MKV
