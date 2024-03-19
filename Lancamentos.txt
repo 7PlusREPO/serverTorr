@@ -1,6 +1,16 @@
 <channels>
 
 <channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Bob Marley: One Love (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/1lQftpEARVVB9op4TaYiIbactzG.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/edJ2XEsDr03pAHbseJ4vDVgtd7k.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]A celebração da vida e música de um ícone que inspirou gerações com a sua mensagem de amor e unidade. Descobre a poderosa história de Bob Marley que retrata as adversidades e a jornada que originaram a sua música revolucionária.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.802219-bob-marley-one-love.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] 24 Hours with Gaspar (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/wpEbqJ2UYMx1dCgQW6kRgNAlmo4.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/fwkaNqmALBmzkBxrq2IrrNe230O.jpg</fanart>
