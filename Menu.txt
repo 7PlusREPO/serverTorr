@@ -1,16 +1,6 @@
 <channels>
 
 <channel>
-<name>[B][COLOR lime]T[/COLOR][COLOR white]V[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
-<info>
-
-</info>
-<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/TV/Categorias.txt</externallink>
-</channel>
-«««««««««««««««««««««««««
-<channel>
 <name>[B][COLOR lime]L[/COLOR][COLOR white]ançamentos[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
@@ -34,19 +24,6 @@
 <externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/Varios.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
-<channel>
-<name>[B][COLOR lime]S[/COLOR][COLOR white]éries[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
-<info>
-[COLOR lime]SINOPSE:[/COLOR] Após uma infância pobre, Foreman canaliza sua raiva e se torna medalhista de ouro olímpico e campeão mundial de pesos-pesados. Logo após, vive uma experiência de quase morte que o leva dos ringues de boxe aos púlpitos. 
-[COLOR lime]IMDb:[/COLOR] 6.6
-[COLOR lime]Idioma:[/COLOR] Português | Inglês
-[COLOR lime]Legenda:[/COLOR] Português
-[COLOR lime]Duração:[/COLOR] 3 H 26 Min.
-</info>
-<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDbSeries</externallink>
-</channel>
-«««««««««««««««««««««««««
+
 
 </channels>
