@@ -1,6 +1,16 @@
 <channels>
 
 <channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Fitting In (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/aIVu5nMOCNZvOYs3Uhv8TnLvcYk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5MOvht7UNAtEmBSjrLDv6dRlA9L.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Quando Lindy recebe o diagnóstico de uma doença reprodutiva, tudo o que ela pensava sobre sexo, feminilidade e relacionamentos vira de ponta-cabeça.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.986175-fitting-in.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] Bob Marley: One Love (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/1lQftpEARVVB9op4TaYiIbactzG.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/edJ2XEsDr03pAHbseJ4vDVgtd7k.jpg</fanart>
