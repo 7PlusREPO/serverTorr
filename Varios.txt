@@ -1,6 +1,16 @@
 <channels>
 
 <channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] 12 Horas Para o Fim do Mundo (2023)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/8leDrFajsIuKe10tCNncfAqBct3.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8pFUrTykJdIkXpbHZcTKPEpniEf.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Um pai que trabalha em uma estação espacial precisa salvar sua filha de 15 anos após uma devastadora chuva de meteoros atingir a Terra. Usando apenas telefones e câmeras via satélite, ele embarca numa jornada emocionante para resgatá-la.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/VARIOS/IMDb.864101-Mira.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] Confidential Informant (2023)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/tjgvRagGNhSCznCX65w2hOGBOEd.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/euO884625eFLfKLoc0MtFs5QiOS.jpg</fanart>
