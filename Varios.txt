@@ -1,6 +1,15 @@
 <channels>
 
-
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Confidential Informant (2023)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/tjgvRagGNhSCznCX65w2hOGBOEd.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/euO884625eFLfKLoc0MtFs5QiOS.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Um detetive de polícia que sofre de cancro faz um acordo com um informante para ser morto no cumprimento do dever, para que a sua família possa receber os pesados ​​benefícios por morte do departamento.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/VARIOS/IMDb.1070802-confidential-informant.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] As Marvels (2023)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg</thumbnail>
