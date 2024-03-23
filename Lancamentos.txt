@@ -1,6 +1,16 @@
 <channels>
 
 <channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Fighter (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/zDZowwb9GZGEctAu2PCpjiPQAMM.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/keVfqCMKmJ55nHzmqR2Q5K7LwJt.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Um líder de esquadrão brilhante, mas imprudente, e sua equipe de pilotos de elite enfrentam perigos e demônios internos ao se unirem para uma missão mortal.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.1216512-the-casagrandes-movie.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] Os Casagrandes: O Filme (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/yRD3xPQuEbANBcSWiEfiydKQRkz.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/9L6qUlNYbL6XgYTXPKOlMtphzSu.jpg</fanart>
