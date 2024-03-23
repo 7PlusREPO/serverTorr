@@ -7,7 +7,7 @@
 <info>
 [COLOR lime]SINOPSE:[/COLOR]Um líder de esquadrão brilhante, mas imprudente, e sua equipe de pilotos de elite enfrentam perigos e demônios internos ao se unirem para uma missão mortal.
 </info>
-<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.1216512-the-casagrandes-movie.txt</externallink>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.784651-Fighter.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
 <channel>
