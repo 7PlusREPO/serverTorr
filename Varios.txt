@@ -1,6 +1,16 @@
 <channels>
 
 <channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] Blue Beetle (2023)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/y5sdkgO4IJMTnkjh9PG7kREPWrP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/3H9NA1KWEQN0ItL3Wl3SFZYP6yV.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Jaime Reyes, regressa da universidade cheio de aspirações para o futuro, mas descobre que a sua casa não está bem como a deixou. Enquanto tenta encontrar um objetivo de vida vê-se inesperadamente na posse de uma antiga relíquia de biotecnologia alienígena: o Besouro. Quando o Besouro se liga à sua coluna vertebral, Jaime passa a ter uma incrível armadura de poderes extraordinários e imprevisíveis que o torna no super-herói Blue Beetle.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/VARIOS/IMDb.565770-blue-beetle.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] Aquaman e o Reino Perdido (2023)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/cnqwv5Uz3UW5f086IWbQKr3ksJr.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/8pFUrTykJdIkXpbHZcTKPEpniEf.jpg</fanart>
