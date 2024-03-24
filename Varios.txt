@@ -12,8 +12,8 @@
 «««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] Aquaman e o Reino Perdido (2023)[/COLOR][/B]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/cnqwv5Uz3UW5f086IWbQKr3ksJr.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/8pFUrTykJdIkXpbHZcTKPEpniEf.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/ysHxydAZzfhc4kV5ae8IBbVG5gk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cnqwv5Uz3UW5f086IWbQKr3ksJr.jpg</fanart>
 <info>
 [COLOR lime]SINOPSE:[/COLOR]Tendo falhado em derrotar Aquaman da primeira vez, o Black Manta, ainda impulsionado pela necessidade de vingar a morte do seu pai, não poupará esforços para finalmente derrubar Aquaman. Desta vez, Black Manta está mais forte que nunca, empunhando o poder do mítico Tridente Negro, que liberta uma antiga e maligna força.
 </info>
