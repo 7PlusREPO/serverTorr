@@ -1,7 +1,7 @@
 <channels>
 
 <channel>
-<name>[B][COLOR lime]-[/COLOR][COLOR white] A Bruxa dos Mortos: Baghead (2024)[/COLOR][/B]</name>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] A Grande Entrevista (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/agWt9bJzr2m1HY3A5InxXveUyIe.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/bDIYX0ZSX4CXBEPtOOxwTiaUeFE.jpg</fanart>
 <info>
