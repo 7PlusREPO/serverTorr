@@ -7,7 +7,7 @@
 <info>
 [COLOR lime]SINOPSE:[/COLOR]Após o falecimento de seu pai, Iris (Freya Allan) herda um antigo bar e se depara com um segredo obscuro: o local abriga uma entidade capaz de incorporar os mortos. Tentada a explorar os poderes da criatura e ajudar pessoas desesperadas em troca de dinheiro, Iris mergulha em um terreno perigoso.
 </info>
-<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.784651-Fighter.txt</externallink>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.845783-baghead.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
 <channel>
