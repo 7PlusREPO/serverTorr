@@ -2,6 +2,16 @@
 
 <channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] A Bruxa dos Mortos: Baghead (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/agWt9bJzr2m1HY3A5InxXveUyIe.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/bDIYX0ZSX4CXBEPtOOxwTiaUeFE.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Grande Entrevista é um longa baseado em um caso real, dirigido por Philip Martin (The Crown) e que mostra os bastidores por trás da entrevista bombástica que a BBC obteve com o Príncipe Andrew (Rufus Sewell) em 2019.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.1083658-scoop.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] A Bruxa dos Mortos: Baghead (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/hV1duOiPt8o4JxUltlSbYXMJehf.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/8gW4Natej69vekArRDiBm4n6d7l.jpg</fanart>
 <info>
