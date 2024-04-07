@@ -1,6 +1,16 @@
 <channels>
 
 <channel>
+<name>[B][COLOR lime]-[/COLOR][COLOR white] A Bruxa dos Mortos: Baghead (2024)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/hV1duOiPt8o4JxUltlSbYXMJehf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8gW4Natej69vekArRDiBm4n6d7l.jpg</fanart>
+<info>
+[COLOR lime]SINOPSE:[/COLOR]Após o falecimento de seu pai, Iris (Freya Allan) herda um antigo bar e se depara com um segredo obscuro: o local abriga uma entidade capaz de incorporar os mortos. Tentada a explorar os poderes da criatura e ajudar pessoas desesperadas em troca de dinheiro, Iris mergulha em um terreno perigoso.
+</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/serverTorr/master/IMDb/IMDb.784651-Fighter.txt</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
 <name>[B][COLOR lime]-[/COLOR][COLOR white] Fighter (2024)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/zDZowwb9GZGEctAu2PCpjiPQAMM.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/keVfqCMKmJ55nHzmqR2Q5K7LwJt.jpg</fanart>
