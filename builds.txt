@@ -1,0 +1,108 @@
+name="Build-TrainAgain24-Estuary MOD v2"
+version="1.0.2"
+url="https://www.dropbox.com/scl/fi/xke4tertym2gf6cbp4k4p/Build-TrainAgain-V1.0.2.zip?rlkey=5fny41vq8o84tg5slwy1ppbnc&dl=true"
+minor="http://"
+gui="https://www.dropbox.com/scl/fi/b02uxleb5gyp57esne8nd/Build-TrainAgain-V1.0.2_guisettings.zip?rlkey=khsu3bfbhxwz1fj4hfmsxx3cr&dl=true"
+kodi="20.3"
+theme=""
+icon="https://flixtv.vercel.app/TrainAgain24-1.png"
+fanart="https://flixtv.vercel.app/TrainAgain24-1.png"
+preview="https://flixtv.vercel.app/TrainAgain24-1.png"
+adult="no"
+info="Build-TrainAgain24-Estuary MOD v2"
+description="Build-TrainAgain24-Estuary MOD v2"
+
+
+-------------------------------------------------------------------
+https://ssl.ndvendas.eu:9866/
+https://tinyurl.com/2ax4ezce
+https://tinyurl.com/22szx5ro
+https://tinyurl.com/2afy8u7y
+https://tinyurl.com/2ct6ufrh
+https://tinyurl.com/yozr9fnt
+https://tinyurl.com/2aw5srao
+https://tinyurl.com/2cvljwky
+https://tinyurl.com/2bopg95e
+https://tinyurl.com/2a24y7xg
+https://tinyurl.com/22lk94tj
+https://tinyurl.com/2xjxrp3u
+https://tinyurl.com/ysb2tzjg
+https://tinyurl.com/29dz4lar
+
+
+Aplicativos LG:
+  - Smarters Player PRO
+     - Smart IPTV (pago).
+     - Smart UP (via DNS).
+     - IPTV Portal (via DNS).
+     - SS-IPTV.
+     - Clouddy (pago).
+     - Bay IPTV (pago).
+     - Classe Media Player.
+     - SmartTV Club
+     - Mega IPTV.
+     - ELK Player. 
+     - FLEX IPTV Player.
+     - ON Point IPTV.
+     - Gecko IPTV Player.
+     - Small TV.
+     - IP MyTV.
+     - Max Player.
+     - Wolf TV Pro
+     - ARC Player.
+     - EGO IPTV.
+     - Harmo IPTV.
+     - Bay TV.
+     - Ibo Player.
+     - iboss IPTV.
+     - Virgínia Player. 
+     - Smart One IPTV.
+     - Flix IPTV.
+     - Home IPTV.
+     - Set IPTV.
+     - ABE Player.
+     - BOB Player.
+     - MAC Media Player.
+     - KTN Player.
+     - Hush Player.
+     - Joy IPTV.
+     - Home IPTV.
+     - Set IPTV.
+
+Aplicativos SAMSUNG:
+ 
+- Smart IPTV (pago).
+     - SmartUP (via DNS).
+     - IPTV Portal (via DNS).
+     - SS-IPTV.
+     - Clouddy (pago).
+     - Bay IPTV (pago).
+     - Classe Media Player.
+     - SmartTV Club.
+     - Clouddy.
+     - Mega IPTV.
+     - ELK Player. 
+     - FLEX IPTV Player.
+     - ON Point IPTV.
+     - Gecko IPTV Player.
+     - Small TV.
+     - IP MyTV.
+     - MAX Player.
+     - WOLF TV Pro
+     - ARC Player.
+     - EGO IPTV.
+     - Harmo IPTV.
+     - Bay TV.
+     - Ibo Player.       
+     - Virgínia Player. 
+     - SmartONE IPTV.
+     - Flix IPTV.
+     - Home IPTV.
+     - Set IPTV.
+     - ABE Player.
+     - BOB Player.
+     - MAC Media Player.
+     - KTN Player.
+     - Hush Player.
+
+
